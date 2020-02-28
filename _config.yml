@@ -9,7 +9,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: '/ZoRoAn'
 disqus: 'disqus_sHOroUPZSl'
 email: 'mpzrlogn'
-# mailchimp-list: ''
+mailchimp-list: '0e5d7e628a'
 
 include: ["_pages"]
 permalink: /:title/
