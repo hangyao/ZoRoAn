@@ -1,14 +1,14 @@
 # Site
-name: 'ZoRoAn'
-title:
-SEOTitle:
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
-keyword: 
+name: '蔵鷺庵'
+title: 'ZoRoAn | 蔵鷺庵'
+SEOTitle: 'ZoRoAn | 蔵鷺庵: a blog about Japanese Tea Ceremony'
+description: 'ZoRoAn is a blog about Japanese Tea Ceremony.'
+keyword: 'ZoRoAn, 蔵鷺庵, Japanese Tea Ceremony, Way of Tea, Chanoyu, Cha-No-Yu, Chado, Sado, Temae, Urasenke, Tea Ceremony'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/ZoRoAn'
-# disqus: ''
-# email: ''
+disqus: 'disqus_sHOroUPZSl'
+email: 'mpzrlogn'
 # mailchimp-list: ''
 
 include: ["_pages"]
@@ -22,11 +22,19 @@ plugins:
   - jekyll-seo-tag
 
 authors:
-    chris:
-      name:           Chris
+    soshu:
+      name:           Soshu
       site:
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      avatar:         /assets/images/avatar1.png
+      bio:            "Hi, I am Soshu 宗舟, the author of ZoRoAn 蔵鷺庵, the blog you're currently viewing. I hope you like it!"
+      # email:
+      # twitter:
+
+    sochiku:
+      name:           Sochiku
+      site:
+      avatar:         /assets/images/avatar2.png
+      bio:            "Hi, I am Sochiku 宗竹, the author of ZoRoAn 蔵鷺庵, the blog you're currently viewing. I hope you like it!"
       # email:
       # twitter:
 
@@ -38,14 +46,16 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: soshu
+      avatar: /assets/images/avatar1.png
 
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
+      author: soshu
+      avatar: /assets/images/avatar1.png
 
 # Syntax
 markdown: kramdown
