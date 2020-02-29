@@ -4,7 +4,7 @@ title:  "利休百首"
 author: Soshu
 categories: [ Rikyu Hyakushu, Tea Books ]
 image: assets/images/home.jpg
-tags: [sticky]
+tags: [featured]
 ---
 
 ## 利休百首 中文/English
