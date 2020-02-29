@@ -3,7 +3,7 @@ layout: post
 title:  "里千家点前"
 author: Soshu
 categories: [ Temae, Urasenke ]
-image: assets/images/home.jpg
+image: assets/images/honunsai-and-deng-xiaoping.jpg
 tags: [featured]
 ---
 
