@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "利休百首"
-author: Soshu
+author: soshu
 categories: [ Rikyu Hyakushu, Tea Books ]
 image: assets/images/rikyu-and-chojiro.jpg
 tags: [featured]
