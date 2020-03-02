@@ -3,8 +3,8 @@ layout: post
 title:  "速水流点法"
 author: soshu
 categories: [ Temae, Hayamiryu ]
-image: assets/images/honunsai-and-deng-xiaoping.jpg
-tags: [featured]
+image: assets/images/hayamiryu-hayami-soen.jpg
+tags: []
 ---
 
 速水流点法

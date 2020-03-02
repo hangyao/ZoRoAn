@@ -3,8 +3,8 @@ layout: post
 title:  "遠州流点法"
 author: soshu
 categories: [ Temae, Enshuryu ]
-image: assets/images/honunsai-and-deng-xiaoping.jpg
-tags: [featured]
+image: assets/images/enshuryu-kobori-sojitsu.jpg
+tags: []
 ---
 
 遠州流点法
