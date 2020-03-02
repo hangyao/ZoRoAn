@@ -21,11 +21,11 @@ Zai-Chu-An Ka-Ta-Tsu-Ki
 
 将军家光于品川东海寺落成时作为装饰，是广为人知的贵重宝物。
 
-抚肩、高背的肩冲，从肩到裾有淡的辘轳目，[土见]({{ site.baseurl }}/_posts\2020-03-03-chaire-haiken-dictionary/#土见)从裾一直到底。
+抚肩、高背的肩冲，从肩到裾有淡的辘轳目，[土见]({{ site.baseurl }}/chaire-haiken-dictionary/#土见)从裾一直到底。
 
-濑户釉是淡黄、黑饴色的釉，从胴开始比较宽，在裾上变窄，在土际变成[颓]({{ site.baseurl }}/_posts\2020-03-03-chaire-haiken-dictionary/#颓)（なだれ）的[置形]({{ site.baseurl }}/_posts\2020-03-03-chaire-haiken-dictionary/#置形)。裾以下是朱泥色的土见，样式柔和，[糸切底]({{ site.baseurl }}/_posts\2020-03-03-chaire-haiken-dictionary/#畳付)细密紧凑，品格高。
+濑户釉是淡黄、黑饴色的釉，从胴开始比较宽，在裾上变窄，在土际变成[颓]({{ site.baseurl }}/chaire-haiken-dictionary/#颓)（なだれ）的[置形]({{ site.baseurl }}/chaire-haiken-dictionary/#置形)。裾以下是朱泥色的土见，样式柔和，[糸切底]({{ site.baseurl }}/chaire-haiken-dictionary/#畳付)细密紧凑，品格高。
 
-姿与[景色]({{ site.baseurl }}/_posts\2020-03-03-chaire-haiken-dictionary/#景色)都十分出众，是作为古濑户代表的茶入。
+姿与[景色]({{ site.baseurl }}/chaire-haiken-dictionary/#景色)都十分出众，是作为古濑户代表的茶入。
 
 ![八枚名物裂]({{ site.baseurl }}/assets/images/zaichuan-katatsuki-shifuku.jpg "八枚名物裂")
 
