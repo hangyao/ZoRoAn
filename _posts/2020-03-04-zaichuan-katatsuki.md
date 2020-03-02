@@ -4,7 +4,7 @@ title:  "在中庵肩衝"
 author: soshu
 categories: [ Chaire ]
 image: assets/images/zaichuan-katatsuki.jpg
-tags: [ featured ]
+tags: [ featured, sticky ]
 ---
 
 在中庵肩衝
