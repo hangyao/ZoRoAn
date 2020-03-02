@@ -3,8 +3,8 @@ layout: post
 title:  "在中庵肩衝"
 author: soshu
 categories: [ Chaire ]
-<!-- image: assets/images/zaichuan-katatsuki.jpg -->
-tags: []
+image: assets/images/zaichuan-katatsuki.jpg
+tags: [ featured ]
 ---
 
 在中庵肩衝
@@ -12,12 +12,6 @@ tags: []
 ざいちゅうあんかたつき
 
 Zai-Chu-An Ka-Ta-Tsu-Ki
-
-![八枚名物裂]({{ site.baseurl }}/assets/images/zaichuan-katatsuki-shifuku.jpg "八枚名物裂")
-
-![唐物屈轮四方盆]({{ site.baseurl }}/assets/images/zaichuan-katatsuki-bon.jpg "唐物屈轮四方盆")
-
-![在中庵棚]({{ site.baseurl }}/assets/images/zaichuan-katatsuki-tana.jpg "在中庵棚")
 
 古濑户肩冲茶入。中兴名物。別名 道休肩冲。
 
@@ -27,13 +21,19 @@ Zai-Chu-An Ka-Ta-Tsu-Ki
 
 将军家光于品川东海寺落成时作为装饰，是广为人知的贵重宝物。
 
-抚肩、高背的肩冲，从肩到裾有淡的辘轳目，土见从裾一直到底。
+抚肩、高背的肩冲，从肩到裾有淡的辘轳目，[土见]({{ site.baseurl }}/_posts\2020-03-03-chaire-haiken-dictionary/#土见)从裾一直到底。
 
-濑户釉是淡黄、黑饴色的釉，从胴开始比较宽，在裾上变窄，在土际变成颓（なだれ）的置形。裾以下是朱泥色的土见，样式柔和，糸切底细密紧凑，品格高。
+濑户釉是淡黄、黑饴色的釉，从胴开始比较宽，在裾上变窄，在土际变成[颓]({{ site.baseurl }}/_posts\2020-03-03-chaire-haiken-dictionary/#颓)（なだれ）的[置形]({{ site.baseurl }}/_posts\2020-03-03-chaire-haiken-dictionary/#置形)。裾以下是朱泥色的土见，样式柔和，[糸切底]({{ site.baseurl }}/_posts\2020-03-03-chaire-haiken-dictionary/#畳付)细密紧凑，品格高。
 
-姿与景色都十分出众，是作为古濑户代表的茶入。
+姿与[景色]({{ site.baseurl }}/_posts\2020-03-03-chaire-haiken-dictionary/#景色)都十分出众，是作为古濑户代表的茶入。
+
+![八枚名物裂]({{ site.baseurl }}/assets/images/zaichuan-katatsuki-shifuku.jpg "八枚名物裂")
 
 仕覆是八枚不同品种的名物裂。
+
+![唐物屈轮四方盆]({{ site.baseurl }}/assets/images/zaichuan-katatsuki-bon.jpg "唐物屈轮四方盆")
+
+![在中庵棚]({{ site.baseurl }}/assets/images/zaichuan-katatsuki-tana.jpg "在中庵棚")
 
 专为茶入而做的唐物屈轮四方盆，以及桑木与黑柿寄木細工的在中庵棚，二者都是遠州好物，可知这个爱藏绝非寻常。
 
