@@ -16,6 +16,7 @@ include: ["_pages"]
 permalink: /:title/
 
 # Plugins
+whitelist: [jekyll-analytics]
 plugins:
   - jekyll-feed
   - jekyll-sitemap
