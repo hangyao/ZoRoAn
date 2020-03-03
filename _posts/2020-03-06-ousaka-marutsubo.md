@@ -4,7 +4,7 @@ title:  "相坂丸壷"
 author: soshu
 categories: [ Chaire ]
 image: assets/images/osaka-marutsubo.jpg
-tags: [ featured, sticky ]
+tags: [ featured ]
 ---
 
 相坂丸壷
