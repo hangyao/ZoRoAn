@@ -9,21 +9,21 @@ tags: [ sticky ]
 
 1951年7月24日，野口勇与李香兰（山口淑子）（1920-2014）在 Charles 和 Ray Eames 位于加州海滨的 Case Study House #8 主持了一场日本茶会。主客是查理·卓别林。其他的客人包括 Christian 和 Henrietta Lederbom，演员 Betty Harford，英国诗人 Iris Tree 和她儿子剧作家 Ivan Moffat， 以及演员 Ford Rainey。
 
-![Eames Chakai 1](Eames Chakai 1)
+![Eames Chakai 1][Eames Chakai 1]
 
 图一：左起 Christian Lederbom，Henrietta Lederbom，李香兰（山口淑子/Shirley Yamaguchi），野口勇（Isamu Noguchi），卓别林（Charlie Chaplin），Iris Tree。
 
-![Eames Chakai 2](Eames Chakai 2)
+![Eames Chakai 2][Eames Chakai 2]
 
 图二： 左起 Charles Eames，李香兰（山口淑子/Shirley Yamaguchi），松本静枝（宗静/Sosei Shizuye Matsumoto），卓别林（Charlie Chaplin），Ray Eames，Iris Tree，Henrietta Lederbom，Betty Harford，Christian Lederbom，Ford Rainey。
 
-![Eames Chakai 3](Eames Chakai 3)
+![Eames Chakai 3][Eames Chakai 3]
 
 图三：左起 野口勇（Isamu Noguchi），Ray Eames，李香兰（山口淑子/Shirley Yamaguchi），松本静枝（宗静/Sosei Shizuye Matsumoto），卓别林（Charlie Chaplin），Henrietta Lederbom，Iris Tree，Betty Harford，Christian Lederbom，Ford Rainey。
 
-![Eames Chakai 4](Eames Chakai 4)
+![Eames Chakai 4][Eames Chakai 4]
 
-![Eames Chakai 5](Eames Chakai 5)
+![Eames Chakai 5][Eames Chakai 5]
 
 Charles 和 Ray Eames 专门为这场茶会设计了怀石料理用的钢丝底座矮桌（LTR table）。野口勇也带了新设计的 Akari 落地灯作为茶席的照明。李香兰穿着野口勇专门为她设计的带侧拉链的修身和服。
 
@@ -31,9 +31,9 @@ Charles 和 Ray Eames 专门为这场茶会设计了怀石料理用的钢丝底�
 
 山口淑子来到美国的契机是拍摄电影 Japanese War Bride。电影中需要有茶道的镜头，由里千家松本静枝（宗静）（1916-2019）指导山口淑子学习茶道。1950年，千玄室大宗匠（鹏云斋）渡美到夏威夷大学学习。松本宗静自1951年一月起开始教授茶道。1951年6月10日，里千家淡交会在夏威夷成立。在拍摄过程中，山口淑子学习茶道出现了一些困难，导演 King Vidor 提议不如由松本先生在电影中点茶。于是松本宗静上镜出演了山口淑子角色的母亲。
 
-![Japanese War Bride Poster](Japanese War Bride Poster)
+![Japanese War Bride Poster][Japanese War Bride Poster]
 
-![Japanese War Bride Photo](Japanese War Bride Photo)
+![Japanese War Bride Photo][Japanese War Bride Photo]
 
 Japanese War Bride 的海报与剧照
 
@@ -60,9 +60,9 @@ Charles Eames 有一些身着和服或浴衣的照片，他曾说他对建筑的
 
 > Isamu 相信他与普通美国人不同，并且他能理解东方的感觉。但最终他还是美国人。他总是向往日本，在那里他找到了一半的根。但是我认为这是一个与他的童年经历联系在一起的日本，当时他的根源未被接受。那是一个死了的日本。他正在寻找一个不再现实的日本。他沉迷于事物，并且向往那些日本人并不真正关心的事物。然后他试图通过逻辑推理接近日本。我以为他这样做是因为他是美国人。
 
-![Noguchi Sculpture - Yoshiko](noguchi-yoshiko)
+![Noguchi Sculpture - Yoshiko][noguchi-yoshiko]
 
-![Noguchi Sculpture - Marriage](noguchi-marriage)
+![Noguchi Sculpture - Marriage][noguchi-marriage]
 
 总有人说，要开始一个家，所需要的只是一个房间，一个榻榻米和一个AKARI。1950年，野口勇访问了岐阜，启发了他制作了上百个 Akari 灯。
 
