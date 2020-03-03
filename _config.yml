@@ -21,6 +21,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-analytics
 
 authors:
     soshu:
@@ -65,6 +66,12 @@ highlighter: rouge
 
 # Paginate
 paginate: 10
+
+# Analytics
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-159401266-1
+    anonymizeIp: false
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
