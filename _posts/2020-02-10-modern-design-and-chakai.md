@@ -7,7 +7,7 @@ image: assets/images/eames-chakai-01.jpg
 tags: [ sticky ]
 ---
 
-1951年7月24日，野口勇与李香兰（山口淑子）（1920-2014）在 Charles 和 Ray Eames 位于加州海滨的 Case Study House #8 主持了一场日本茶会。主客是查理·卓别林。其他的客人包括 Christian 和 Henrietta Lederbom，演员 Betty Harford，英国诗人 Iris Tree 和她儿子剧作家 Ivan Moffat， 以及演员 Ford Rainey。
+1951年7月24日，野口勇与李香兰（山口淑子）（1920-2014）在 Charles 和 Ray Eames 位于加州海滨的 [Case Study House #8][eames house] 主持了一场日本茶会。主客是查理·卓别林。其他的客人包括 Christian 和 Henrietta Lederbom，演员 Betty Harford，英国诗人 Iris Tree 和她儿子剧作家 Ivan Moffat， 以及演员 Ford Rainey。
 
 ![Eames Chakai 1][Eames Chakai 1]
 
@@ -77,3 +77,5 @@ Charles Eames 有一些身着和服或浴衣的照片，他曾说他对建筑的
 [Japanese War Bride Photo]: {{ site.baseurl }}/assets/images/japanese-war-bride-photo.jpg "Japanese War Bride 的剧照"
 [noguchi-yoshiko]: {{ site.baseurl }}/assets/images/noguchi-yoshiko.jpg "淑子。野口勇，1952年，镰仓，无釉唐津烧"
 [noguchi-marriage]: {{ site.baseurl }}/assets/images/noguchi-marriage.jpg "婚姻。野口勇，1952年，镰仓，无釉唐津烧"
+
+[eames house](https://en.wikipedia.org/wiki/Eames_House)
