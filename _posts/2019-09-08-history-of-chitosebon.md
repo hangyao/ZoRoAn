@@ -43,17 +43,20 @@ tags: [ featured ]
 
 千歳盆常见的有两种样式，一种盖里有今日庵的银杏莳绘和“今日”字样，另一种盖里绘有歌咏。点前使用特殊的“敷古帛纱”，比通常的古帛纱略小一寸，纹样是淡々斎好七宝雪月花裂（しっぽうせつげつかぎれ）。
 
+千歳盆
 ![Chitose Bon with Ginkgo][chitosebon ginkgo]
 
+千歳盆
 ![Chitose Bon with Poem][chitosebon poem]
 
+淡々斎好七宝雪月花裂
 ![Shippo Setsugetsuka Gire][shippo setsugetsuka gire]
 
 
 [tantansai family]: {{ site.baseurl }}/assets/images/tantansai-family.jpg "左起：淡々斎，大宗匠（鵬雲斎），嘉代子夫人，森光子，登美子夫人"
-[tantansai]: {{ site.baseurl }}/assets/images/tantansai-portrait.jpg "淡々斎"
+[tantansai]: {{ site.baseurl }}/assets/images/tantansai-portrait.png "淡々斎"
 [kayoko]: {{ site.baseurl }}/assets/images/kayoko-portrait.jpg "千嘉代子"
-[otani satoko]: {{ site.baseurl }}/assets/images/otani-satoko.jpg "大谷智子"
+[otani satoko]: {{ site.baseurl }}/assets/images/otani-satoko.png "大谷智子"
 [yukawa sumi]: {{ site.baseurl }}/assets/images/yukawa-sumi.jpg "汤川スミ"
 [chitosebon ginkgo]: {{ site.baseurl }}/assets/images/chitosebon.jpg "千歳盆"
 [chitosebon poem]: {{ site.baseurl }}/assets/images/chitosebon-alt.jpg "千歳盆"
