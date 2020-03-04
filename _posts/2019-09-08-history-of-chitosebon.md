@@ -44,12 +44,15 @@ tags: [ featured ]
 千歳盆常见的有两种样式，一种盖里有今日庵的银杏莳绘和“今日”字样，另一种盖里绘有歌咏。点前使用特殊的“敷古帛纱”，比通常的古帛纱略小一寸，纹样是淡々斎好七宝雪月花裂（しっぽうせつげつかぎれ）。
 
 千歳盆
+
 ![Chitose Bon with Ginkgo][chitosebon ginkgo]
 
 千歳盆
+
 ![Chitose Bon with Poem][chitosebon poem]
 
 淡々斎好七宝雪月花裂
+
 ![Shippo Setsugetsuka Gire][shippo setsugetsuka gire]
 
 
