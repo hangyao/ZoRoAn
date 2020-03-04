@@ -25,11 +25,11 @@ tags: [ sticky ]
 
 ![Eames Chakai 5][Eames Chakai 5]
 
-Charles 和 Ray Eames 专门为这场茶会设计了怀石料理用的钢丝底座矮桌（LTR table）。野口勇也带了新设计的 Akari 落地灯作为茶席的照明。李香兰穿着野口勇专门为她设计的带侧拉链的修身和服。
+Charles 和 Ray Eames 专门为这场茶会设计了怀石料理用的钢丝底座矮桌（[LTR table][LTR table]）。野口勇也带了新设计的 [Akari][Akari light] 落地灯作为茶席的照明。李香兰穿着野口勇专门为她设计的带侧拉链的修身和服。
 
 李香兰准备了卓别林特别要求的寿喜烧。松本宗静做了茶道的指导。在清酒轮，卓别林站起来表演了一段能剧（卓别林专门学习过歌舞伎、狂言和能剧）。李香兰与卓别林一直保持着很好的私交，可能跟他们都在众议院非美活动调查委员会（HUAC）的黑名单上有关。
 
-山口淑子来到美国的契机是拍摄电影 Japanese War Bride。电影中需要有茶道的镜头，由里千家松本静枝（宗静）（1916-2019）指导山口淑子学习茶道。1950年，千玄室大宗匠（鹏云斋）渡美到夏威夷大学学习。松本宗静自1951年一月起开始教授茶道。1951年6月10日，里千家淡交会在夏威夷成立。在拍摄过程中，山口淑子学习茶道出现了一些困难，导演 King Vidor 提议不如由松本先生在电影中点茶。于是松本宗静上镜出演了山口淑子角色的母亲。
+山口淑子来到美国的契机是拍摄电影 Japanese War Bride。电影中需要有茶道的镜头，由里千家松本静枝（宗静）（1916-2019）指导山口淑子学习茶道。1950年，千玄室大宗匠（鵬雲斎）渡美到夏威夷大学学习。松本宗静自1951年一月起开始教授茶道。1951年6月10日，里千家淡交会在夏威夷成立。在拍摄过程中，山口淑子学习茶道出现了一些困难，导演 King Vidor 提议不如由松本先生在电影中点茶。于是松本宗静上镜出演了山口淑子角色的母亲。
 
 ![Japanese War Bride Poster][Japanese War Bride Poster]
 
@@ -41,10 +41,10 @@ Japanese War Bride 的海报与剧照
 
 + 挂轴：松间听松风，淡々斎 书
 + 薄茶器：高台寺莳绘枣，光悦 作
-+ 主茶碗：黑仁清 竹，久世久宝 作
++ 主茶碗：黑仁清 竹绘，久世久宝 作
 + 茶杓：淡々斎 作，铭 再来 （是不是李香兰唱红了《何日君再来》这首歌？）
 
-Charles Eames 在一封1951年10月26日写给千宗兴（里千家十五代大宗匠，鹏云斋）的信中说：
+Charles Eames 在一封1951年10月26日写给千宗興（里千家十五代大宗匠，鵬雲斎）的信中说：
 
 > 如果我对这个美丽的古老仪式与容纳它的建筑之间的关系可能有任何感觉，那只能基于一种直观的感觉，因为我对任何一个都不了解。 如果我们的房子看起来像是对茶道仪式的共情，我相信这是因为它拥有在某种程度上必须是构成这种背景印象的任何建筑中必不可少的元素。 它（房子）与日本茶室的最重要的共同点在于，它以一种自然而纯朴的方式使用极其不起眼的材料。 裸露且未经修饰的工字梁和开放式带网状的钢托梁非常适合用作茶馆的木质结构构件。
 
@@ -78,4 +78,6 @@ Charles Eames 有一些身着和服或浴衣的照片，他曾说他对建筑的
 [noguchi-yoshiko]: {{ site.baseurl }}/assets/images/noguchi-yoshiko.jpg "淑子。野口勇，1952年，镰仓，无釉唐津烧"
 [noguchi-marriage]: {{ site.baseurl }}/assets/images/noguchi-marriage.jpg "婚姻。野口勇，1952年，镰仓，无釉唐津烧"
 
-[eames house]: https://en.wikipedia.org/wiki/Eames_House
+[eames house]: https://www.eamesoffice.com/the-work/eames-house-case-study-house-8/
+[LTR table]: https://www.eamesoffice.com/the-work/ltr-low-table-rod-base/
+[Akari light]: https://shop.noguchi.org/collections/akari-light-sculptures
