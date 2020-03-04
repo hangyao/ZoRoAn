@@ -62,7 +62,11 @@ Charles Eames 有一些身着和服或浴衣的照片，他曾说他对建筑的
 
 ![Noguchi Sculpture - Yoshiko][noguchi-yoshiko]
 
+淑子（Yoshiko）。野口勇，1952年，镰仓，无釉唐津烧
+
 ![Noguchi Sculpture - Marriage][noguchi-marriage]
+
+婚姻。野口勇，1952年，镰仓，无釉唐津烧
 
 总有人说，要开始一个家，所需要的只是一个房间，一个榻榻米和一个AKARI。1950年，野口勇访问了岐阜，启发了他制作了上百个 Akari 灯。
 
