@@ -2,7 +2,7 @@
 layout: post
 title:  "现代设计与茶会"
 author: soshu
-categories: [ Design, Chakai ]
+categories: [ Design, Chakai, History ]
 image: assets/images/eames-chakai-01.jpg
 tags: [ sticky ]
 ---
@@ -72,15 +72,20 @@ Charles Eames 有一些身着和服或浴衣的照片，他曾说他对建筑的
 
 > 我创造的名字 akari 在日语中是照明的光的意思。它也表明轻盈而不是重量。表意文字结合了太阳和月亮。Akari 的理想体现为轻盈（物质上）和光明（感知上）。特性是诗意的、无常的和游离的。看起来比实际更脆弱，akari 似乎漂浮着，像不经意一样投下了光芒。它们不会作为物质或财产阻碍我们的空间。如果几乎不使用它们，则在不使用时将它们折叠在信封中。它们像羽毛一样轻盈地栖息着，有些固定在墙上，有些固定在绳子上，所有的都可以随意移动。
 
-[Eames Chakai 1]: {{ site.baseurl }}/assets/images/eames-chakai-01.jpg "图一：左起 Christian Lederbom，Henrietta Lederbom，李香兰（山口淑子/Shirley Yamaguchi），野口勇（Isamu Noguchi），卓别林（Charlie Chaplin），Iris Tree。"
-[Eames Chakai 2]: {{ site.baseurl }}/assets/images/eames-chakai-02.jpg "图二： 左起 Charles Eames，李香兰（山口淑子/Shirley Yamaguchi），松本静枝（宗静/Sosei Shizuye Matsumoto），卓别林（Charlie Chaplin），Ray Eames，Iris Tree，Henrietta Lederbom，Betty Harford，Christian Lederbom，Ford Rainey。"
-[Eames Chakai 3]: {{ site.baseurl }}/assets/images/eames-chakai-03.jpg "图三：左起 野口勇（Isamu Noguchi），Ray Eames，李香兰（山口淑子/Shirley Yamaguchi），松本静枝（宗静/Sosei Shizuye Matsumoto），卓别林（Charlie Chaplin），Henrietta Lederbom，Iris Tree，Betty Harford，Christian Lederbom，Ford Rainey。"
-[Eames Chakai 4]: {{ site.baseurl }}/assets/images/eames-chakai-04.jpg "李香兰（山口淑子/Shirley Yamaguchi）在 Eames House 里。旁边是 Akari 落地灯和风炉。"
-[Eames Chakai 5]: {{ site.baseurl }}/assets/images/eames-chakai-05.jpg "铺着草席和坐垫的 Eames House 。"
+![Noguchi and Yamaguchi outside of the Eames House][noguchi-and-yamaguchi]
+
+野口勇与李香兰站在 Eames House 门口
+
+[Eames Chakai 1]: {{ site.baseurl }}/assets/images/eames-chakai-01.jpg "图一：左起 Christian Lederbom，Henrietta Lederbom，李香兰（山口淑子/Shirley Yamaguchi），野口勇（Isamu Noguchi），卓别林（Charlie Chaplin），Iris Tree"
+[Eames Chakai 2]: {{ site.baseurl }}/assets/images/eames-chakai-02.jpg "图二： 左起 Charles Eames，李香兰（山口淑子/Shirley Yamaguchi），松本静枝（宗静/Sosei Shizuye Matsumoto），卓别林（Charlie Chaplin），Ray Eames，Iris Tree，Henrietta Lederbom，Betty Harford，Christian Lederbom，Ford Rainey"
+[Eames Chakai 3]: {{ site.baseurl }}/assets/images/eames-chakai-03.jpg "图三：左起 野口勇（Isamu Noguchi），Ray Eames，李香兰（山口淑子/Shirley Yamaguchi），松本静枝（宗静/Sosei Shizuye Matsumoto），卓别林（Charlie Chaplin），Henrietta Lederbom，Iris Tree，Betty Harford，Christian Lederbom，Ford Rainey"
+[Eames Chakai 4]: {{ site.baseurl }}/assets/images/eames-chakai-04.jpg "李香兰（山口淑子/Shirley Yamaguchi）在 Eames House 里，旁边是 Akari 落地灯和风炉"
+[Eames Chakai 5]: {{ site.baseurl }}/assets/images/eames-chakai-05.jpg "铺着草席和坐垫的 Eames House "
 [Japanese War Bride Poster]: {{ site.baseurl }}/assets/images/japanese-war-bride-poster.jpg "Japanese War Bride 的海报"
 [Japanese War Bride Photo]: {{ site.baseurl }}/assets/images/japanese-war-bride-photo.jpg "Japanese War Bride 的剧照"
 [noguchi-yoshiko]: {{ site.baseurl }}/assets/images/noguchi-yoshiko.jpg "淑子。野口勇，1952年，镰仓，无釉唐津烧"
 [noguchi-marriage]: {{ site.baseurl }}/assets/images/noguchi-marriage.jpg "婚姻。野口勇，1952年，镰仓，无釉唐津烧"
+[noguchi-and-yamaguchi]: {{ site.baseurl }}/assets/images/noguchi-and-yamaguchi-at-eames-house.jpg "野口勇与李香兰站在 Eames House 门口"
 
 [eames house]: https://www.eamesoffice.com/the-work/eames-house-case-study-house-8/
 [LTR table]: https://www.eamesoffice.com/the-work/ltr-low-table-rod-base/
