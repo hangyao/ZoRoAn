@@ -78,4 +78,4 @@ Charles Eames 有一些身着和服或浴衣的照片，他曾说他对建筑的
 [noguchi-yoshiko]: {{ site.baseurl }}/assets/images/noguchi-yoshiko.jpg "淑子。野口勇，1952年，镰仓，无釉唐津烧"
 [noguchi-marriage]: {{ site.baseurl }}/assets/images/noguchi-marriage.jpg "婚姻。野口勇，1952年，镰仓，无釉唐津烧"
 
-[eames house](https://en.wikipedia.org/wiki/Eames_House)
+[eames house]: https://en.wikipedia.org/wiki/Eames_House
