@@ -48,4 +48,4 @@ tags: [ featured ]
 [okuda-mokuhaku-akahada-fuji-chawan-3]: {{ site.baseurl }}/assets/images/okuda-mokuhaku-akahada-fuji-chawan-3.jpg "赤膚焼 奥田木白作 富士山图茶碗"
 [okuda-mokuhaku-akahada-fuji-chawan-4]: {{ site.baseurl }}/assets/images/okuda-mokuhaku-akahada-fuji-chawan-4.jpg "赤膚焼 奥田木白作 富士山图茶碗"
 [okuda-mokuhaku-akahada-fuji-chawan-5]: {{ site.baseurl }}/assets/images/okuda-mokuhaku-akahada-fuji-chawan-5.jpg "赤膚焼 奥田木白作 富士山图茶碗"
-[hounsai and nishimura ko]: {{ site.baseurl }}/assets/images/honunsai-and-deng-xiaoping.jpg "德岛航空队时期（1944年）。右二：千玄室。最右：西村晃"
+[hounsai and nishimura ko]: {{ site.baseurl }}/assets/images/hounsai-and-nishimura-ko.jpg "德岛航空队时期（1944年）。右二：千玄室。最右：西村晃"
