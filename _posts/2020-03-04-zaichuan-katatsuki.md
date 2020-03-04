@@ -27,15 +27,15 @@ Zai-Chu-An Ka-Ta-Tsu-Ki
 
 姿与[景色]({{ site.baseurl }}/chaire-haiken-dictionary/#景色)都十分出众，是作为古濑户代表的茶入。
 
+仕覆是八枚不同品种的名物裂。
+
 ![八枚名物裂]({{ site.baseurl }}/assets/images/zaichuan-katatsuki-shifuku.jpg "八枚名物裂")
 
-仕覆是八枚不同品种的名物裂。
+专为茶入而做的唐物屈轮四方盆，以及桑木与黑柿寄木細工的在中庵棚，二者都是遠州好物，可知这个爱藏绝非寻常。
 
 ![唐物屈轮四方盆]({{ site.baseurl }}/assets/images/zaichuan-katatsuki-bon.jpg "唐物屈轮四方盆")
 
 ![在中庵棚]({{ site.baseurl }}/assets/images/zaichuan-katatsuki-tana.jpg "在中庵棚")
-
-专为茶入而做的唐物屈轮四方盆，以及桑木与黑柿寄木細工的在中庵棚，二者都是遠州好物，可知这个爱藏绝非寻常。
 
 其中的书信是小堀遠州告诉水野兵九郎，他计划把这个茶入存放在当铺，换成七千两。是显示这个茶入贵重的资料。
 
