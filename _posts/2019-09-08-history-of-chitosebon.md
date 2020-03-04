@@ -2,7 +2,7 @@
 layout: post
 title:  "千歳盆点前的历史"
 author: soshu
-categories: [ Temae, Chitosebon, History ]
+categories: [ Temae, Chitosebon, History, Urasenke ]
 image: assets/images/chitosebon-temae.jpg
 tags: [ featured ]
 ---
