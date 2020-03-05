@@ -3,7 +3,7 @@ layout: post
 title:  "家元一问一答 目录"
 author: sochiku
 categories: [ Temae, Urasenke, Ichimon Ittou ]
-image: assets/images/chabako-wakeidate.jpg
+image: assets/images/learn-koi-cha.jpg
 tags: [ featured ]
 ---
 
