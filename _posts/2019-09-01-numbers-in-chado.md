@@ -4,7 +4,7 @@ title:  "茶道名数"
 author: soshu
 categories: [ Vocabulary ]
 image: assets/images/tea-master-hold-chashaku.jpg
-tags: [ featured ]
+tags: []
 ---
 
 茶道名数，跟数字有关的茶道名词，陆续收集中…………
