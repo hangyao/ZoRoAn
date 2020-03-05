@@ -2,7 +2,7 @@
 layout: post
 title:  "茶入鉴赏辞典"
 author: soshu
-categories: [ Chaire, Haiken ]
+categories: [ Chaire, Haiken, Vocabulary ]
 <!-- image: assets/images/hayamiryu-hayami-soen.jpg -->
 tags: []
 ---
