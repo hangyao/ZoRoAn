@@ -27,7 +27,8 @@ tags: []
 | （次客）お相伴致します | おしょうばんいたしまし | oshouban itashimasu |
 | （主客）どうぞ、お仕舞いください | どうぞ、おしまいください | douzo oshimai kudasai |
 |:--|:--|:--|
-|  |  |  |
+
+
 | 問答 | もんどう | mondou |
 |:--|:--|:--|
 | 本日のお筆は？ | ほんじつのおふでは | honjitsuno ofude wa |
