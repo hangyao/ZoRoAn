@@ -23,9 +23,9 @@ Zai-Chu-An Ka-Ta-Tsu-Ki
 
 抚肩、高背的肩冲，从肩到裾有淡的辘轳目，[土见]({{ site.baseurl }}/chaire-haiken-dictionary/#tsuchimi)从裾一直到底。
 
-濑户釉是淡黄、黑饴色的釉，从胴开始比较宽，在裾上变窄，在土际变成[颓]({{ site.baseurl }}/chaire-haiken-dictionary/#颓)（なだれ）的[置形]({{ site.baseurl }}/chaire-haiken-dictionary/#置形)。裾以下是朱泥色的土见，样式柔和，[糸切底]({{ site.baseurl }}/chaire-haiken-dictionary/#畳付)细密紧凑，品格高。
+濑户釉是淡黄、黑饴色的釉，从胴开始比较宽，在裾上变窄，在土际变成[颓]({{ site.baseurl }}/chaire-haiken-dictionary/#nadare)（なだれ）的[置形]({{ site.baseurl }}/chaire-haiken-dictionary/#okigata)。裾以下是朱泥色的土见，样式柔和，[糸切底]({{ site.baseurl }}/chaire-haiken-dictionary/#tatamitsuki)细密紧凑，品格高。
 
-姿与[景色]({{ site.baseurl }}/chaire-haiken-dictionary/#景色)都十分出众，是作为古濑户代表的茶入。
+姿与[景色]({{ site.baseurl }}/chaire-haiken-dictionary/#keshiki)都十分出众，是作为古濑户代表的茶入。
 
 仕覆是八枚不同品种的名物裂。
 

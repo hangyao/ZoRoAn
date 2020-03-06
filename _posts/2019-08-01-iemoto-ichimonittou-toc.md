@@ -10,8 +10,8 @@ tags: [ featured ]
 家元一问一答是里千家今日庵网站上的一个栏目。一共一百个问题，回答了里千家茶道点前中一些常见的问题。陆续翻译中…………
 
 1. [帛纱的四方捌（よほうさばき）有什么含义吗？]({{ site.baseurl }}/iemoto-ichimonittou-meaning-of-yohousabaki)
-2. [请指教内隅（うちずみ）、外隅（そとずみ）的正确用法？]({{ site.baseurl }}/iemoto-ichimonittou-uchizumi-vs-sotozumi)
-3. 薄茶点前ははじめに茶道口で挨拶をしますが、濃茶は点前の途中で主客が総礼をします。その意味をお教え下さい。
+2. [请指教内隅（うちずみ）、外隅（そとずみ）的正确方法？]({{ site.baseurl }}/iemoto-ichimonittou-uchizumi-vs-sotozumi)
+3. [为何薄茶点前在茶道口寒暄（挨拶，あいさつ），而浓茶点前在半途中主客总礼（総礼，そうれい）？]({{ site.baseurl }}/iemoto-ichimonittou-usucha-koicha-aisatsu-sourei)
 4. 棚に荘る時、棗は一手で荘りますが、蓋置は必ず扱って荘るのはどのような理由があるのでしょうか。
 5. 貴人点で、道具を拝見に出す時、濃茶では茶杓を仕覆の上、薄茶では帛紗の上に乗せて出すのは何故ですか。
 6. ３月に釣釜をするのは何故ですか。
