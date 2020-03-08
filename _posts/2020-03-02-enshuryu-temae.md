@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "遠州流点法"
-author: soshu
+author: sochiku
 categories: [ Temae, Enshuryu ]
 image: assets/images/enshuryu-kobori-sojitsu.jpg
 tags: []

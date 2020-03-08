@@ -11,7 +11,7 @@ tags: [ featured ]
 
 おうさかまるつぼ
 
-O-U-Sa-Ka Ma-Ru-Tsu-Bo
+ousaka marutsubo
 
 中兴名物。古濑户，丸壶茶入。
 

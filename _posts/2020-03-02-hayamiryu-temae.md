@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "速水流点法"
-author: soshu
+author: sochiku
 categories: [ Temae, Hayamiryu ]
 image: assets/images/hayamiryu-hayami-soen.jpg
 tags: []

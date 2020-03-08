@@ -11,7 +11,7 @@ tags: [ featured ]
 
 ざいちゅうあんかたつき
 
-Zai-Chu-An Ka-Ta-Tsu-Ki
+zaichuan katatsuki
 
 古濑户肩冲茶入。中兴名物。別名 道休肩冲。
 
