@@ -292,7 +292,6 @@ tags: []
 | 蟹         | ![蟹盖置]({{ site.baseurl }}/assets/images/futaoki-kani.jpg "蟹盖置") |
 | 竹（炉用）  | ![竹盖置（炉用）]({{ site.baseurl }}/assets/images/futaoki-taka-ro.jpg "竹盖置（炉用）") |
 | 竹（風炉用）| ![竹盖置（風炉用）]({{ site.baseurl }}/assets/images/futaoki-taka-furo.jpg "竹盖置（風炉用）") |
-| test | ![天下三肩冲]({{ site.baseurl }}/assets/images/c_200120_chaji_01.jpg "天下三肩冲") |
 
 ### 七种建水
 
