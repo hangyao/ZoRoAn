@@ -283,8 +283,6 @@ tags: []
 
 七種の蓋置（しちしゅのふたおき）：穂屋（ほや）（火舎香炉・ほやこうろ）　　五徳（ごとく）（隠架・いんか）　　一閑人（いっかんじん）　　三つ人形（みつにんぎょう）　　栄縲（さざえ）　　三つ葉（みつば）　　蟹（かに）
 
-
-
 | 火舎       | ![火舎盖置]({{ site.baseurl }}/assets/images/futaoki-hoya.jpg "火舎盖置") |
 | 五徳       | ![五徳盖置]({{ site.baseurl }}/assets/images/futaoki-gotoku.jpg "五徳盖置") |
 | 一閑人     | ![一閑人盖置]({{ site.baseurl }}/assets/images/futaoki-ikkanjin.jpg "一閑人盖置") |
@@ -294,6 +292,7 @@ tags: []
 | 蟹         | ![蟹盖置]({{ site.baseurl }}/assets/images/futaoki-kani.jpg "蟹盖置") |
 | 竹（炉用）  | ![竹盖置（炉用）]({{ site.baseurl }}/assets/images/futaoki-taka-ro.jpg "竹盖置（炉用）") |
 | 竹（風炉用）| ![竹盖置（風炉用）]({{ site.baseurl }}/assets/images/futaoki-taka-furo.jpg "竹盖置（風炉用）") |
+| test | ![天下三肩冲]({{ site.baseurl }}/assets/images/c_200120_chaji_01.jpg "天下三肩冲") |
 
 ### 七种建水
 
