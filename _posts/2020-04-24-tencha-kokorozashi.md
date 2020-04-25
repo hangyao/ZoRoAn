@@ -3,7 +3,7 @@ layout: post
 title:  "点茶心指"
 author: soshu
 categories: [ Tea Books, Soetsu Yanagi ]
-image: assets/images/rikyu-hold-kuroraku-chawan.jpg
+image: assets/images/yanagi_soetsu.jpg
 tags: []
 ---
 
@@ -35,3 +35,26 @@ tags: []
 + 派手ナル女房ニハ
 + 欲深キ商人ニハ
 + ヘツラヘル輩ニハ
+
+**可以奉茶的人**
++ 舍身的圣人
++ 僧堂的行者
++ 心诚的尼姑
++ 求道的居士
++ 贫穷的道友
++ 上年纪的佳人
++ 耿直的年轻人
++ 不谄媚的主人
++ 简朴的乡下人
+
+**不可奉茶的人**
++ 暴富的人
++ 似是而非的宗匠
++ 没经验的茶坊主
++ 熟练的小茶人
++ 沉溺的茶数寄
++ 专注于道具的狂人
++ 傲慢的学者
++ 穿着显摆的女子
++ 贪婪的商人
++ 阿谀之辈
