@@ -2,9 +2,9 @@
 layout: post
 title:  "茶道极秘卷"
 author: soshu
-categories: [ Temae, Omotesenke ]
-image: assets/images/tea-practice.jpg
-tags: []
+categories: [ Tea Books ]
+image: assets/images/chado-gokuhi-maki.jpg
+tags: [ featured ]
 ---
 
 南方相传茶会式法道极秘卷《茶道极秘卷》

@@ -7,7 +7,7 @@ image: assets/images/tea-practice.jpg
 tags: []
 ---
 
-南方相传茶会式法道极秘卷《茶道极秘卷》
+古今传授之三木三鸟
 
 ----
 
