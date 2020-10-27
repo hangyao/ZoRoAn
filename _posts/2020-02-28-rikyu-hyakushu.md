@@ -43,25 +43,34 @@ tags: [featured]
 
 
 1. その道に入らんと思ふ心こそ 我が身ながらの師匠なりけれ
-   sono michi ni hairan to omofu kokorokoso wagami nagara no shishou nariker
+    sono michi ni hairan to omofu kokorokoso wagami nagara no shishou nariker
    （寻道之路的决心，是我自己的老师）
 2. 習いつつ見てこそ習え習はずに よしあしいうは愚かなりけり
+    nara hitsutsu mitekoso nara he narahazu ni yoshiashi ifu ha gu kanarikeri
    （在学习时认真观察，轻言善恶是愚蠢的）
 3. 志深き人にはいくたびも あわれみ深くおくぞ教ふる
+    kokorozashi fukaki hito ni ha ikutabi mo aharemi fukaku okuzo oshifuru
    （急切想要学习的人，总能遇到愿意教他的人）
 4. 恥をすて人にものとひ習ふべし これぞ上手の基なりける
+    haji wo sute hito ni mono to hi narafu beshi korezo jyouzu no motoi narikeru
    （不怕羞耻的学习，是成功的基本）
 5. 上手にはすきと器用と功積むと この三つそろふ日とぞ能くしる
+    jyouzu ni ha suki to kiyou to kou tsumu to kono mitsu sorofu hitozo yokushiru
    （兴趣、灵巧与努力，有此三条才能成功）
 6. 点前には弱みをすててただ強く されど風俗いやしきを去れ
+    temae ni ha yowami wo sutete tada tsuyoku saredo fuuzoku iya shiki wo sare
    （点前不能太柔弱，要去除风俗感）
 7. 点前には強みばかりを思うなよ 強気は弱く軽く重かれ
+    temae ni ha tsuyomi bakari wo omofu na yo tsuyoki ha yowaku karui omokare
    （点前不能太强硬，强处要示弱，举轻须若重）
 8. 何にても道具扱うたびごとに とるては軽くおくて重かれ
+    nani nitemo chagu atsukafu tabigoto ni toru te ha karuku naoku te omokukare
    （无论任何道具，取时要若轻，置时要若重）
 9. 何にても置き付けかえる手離れは 恋しき人にわかるると知れ
+    nani nitemo naokitsukeheru te hanare ha koishiki hito ni wakaruru to shire
    （放置道具时，手离开时要有恋恋不舍的感觉）
 10. 点前こそ薄茶にあれと聞くものを 麁相（そそう）になせしひとはあやまり
+    temae koso usucha ni are to kiku mono wo sosou ni naseshi hito ha ayamari
    （薄茶点前是基础，漫不经心是错误的）
 11. 濃茶には点前をすてて一筋に服の加減と息をもらすな
    （浓茶点前屏息专注，只是为了点出好茶）
