@@ -43,7 +43,7 @@ tags: [featured]
 
 
 1. その道に入らんと思ふ心こそ 我が身ながらの師匠なりけれ  
-    sono michi ni hairan to omofu kokorokoso wagami nagara no shishou nariker  
+    sono michi ni hairan to omofu kokorokoso wagami nagara no shishou narikere  
    （寻道之路的决心，是我自己的老师）
 2. 習いつつ見てこそ習え習はずに よしあしいうは愚かなりけり  
     nara hitsutsu mitekoso nara he narahazu ni yoshiashi ifu ha gu kanarikeri  
@@ -78,52 +78,90 @@ tags: [featured]
 12. 濃茶には湯加減あつく服は尚ほ 泡なきやうにかたまりもなく  
     koicha ni ha yukagen atsuku fuku ha naoho awa naki yau ni katamari mo naku  
    （浓茶要趁热，不能有泡和颗粒）
-13. とにかくに服の加減を覚ゆるは濃茶たびたび点てて能く知れ
+13. とにかくに服の加減を覚ゆるは濃茶たびたび点てて能く知れ  
+    tonikaku ni fuku no kagen wo oboyuru ha koicha tabi tabi tatete yoku shire  
    （感受体会浓茶的味道，在点前练习中学习茶水的比例）
-14. よそにては茶を汲みて後茶杓にて 茶碗のふちを心して打て
+14. よそにては茶を汲みて後茶杓にて 茶碗のふちを心して打て  
+    yoso niteha cha wo kumite ate chashaku nite chawan no fuchi wo kokoroshiteute  
    （舀完茶的茶杓，需要小心敲击茶碗）
-15. 中継ぎは胴を横手にかきて取れ 茶杓は直におくものぞかし
+15. 中継ぎは胴を横手にかきて取れ 茶杓は直におくものぞかし  
+    nakatsugi ha dou wo yokote ni kakitetore chashaku ha jika ni oku mo nozokashi  
    （横持中次茶器的器身，茶杓放下时平直）
-16. 棗には蓋半月に手をかけて 茶杓を円く置くとこそしれ
+16. 棗には蓋半月に手をかけて 茶杓を円く置くとこそしれ  
+    natsume ni ha futa hangetsu ni te wo kakete chashaku wo maruku oku to kososhire  
    （用半月形的手势持棗茶器，茶杓放下时有弧线）
-17. 薄茶入蒔絵彫もの文字あらば 順逆覚え扱ふと知れ
+17. 薄茶入蒔絵彫もの文字あらば 順逆覚え扱ふと知れ  
+    usuchaire makie hori mono moji araba, jyungyaku oboe atsukafu to shire  
    （薄茶器有莳绘、雕刻、文字时，上下需要对齐）
-18. 肩衝は中次とまた同じこと 底に指をばかけぬとぞ知れ
+18. 肩衝は中次とまた同じこと 底に指をばかけぬとぞ知れ  
+    katatsuki ha nakatsugi to mata onaji koto soko ni yubi wo bakakenu tozo shire  
    （肩冲茶入与中次茶器相同，手指不要托底）
-19. 文琳や茄子丸壺大海は 底に指をばかけてこそ持て
+19. 文琳や茄子丸壺大海は 底に指をばかけてこそ持て  
+    bunrin ya nasu marutsubo daikai ha soko ni yubiwo bakakete koso mote  
    （文琳、茄子、丸壶、大海茶入，手指要托住底部）
-20. 大海をあしらふ時は大指を 肩にかけるぞ習いなりける
+20. 大海をあしらふ時は大指を 肩にかけるぞ習いなりける  
+    daikai wo ashirafu toki ha ooyubi wo kata ni kakeruzo narahi narikeru  
    （取大海茶入，用拇指拿取肩部）
-21. 口ひろき茶入の茶をば汲むといふ 狭き口をばすくふとぞいふ
+21. 口ひろき茶入の茶をば汲むといふ 狭き口をばすくふとぞいふ  
+    kuchi hiroki chaire no cha wo ba kumu to ifu semaki kuchi wo ba sukufu to zoifu  
    （广口的茶入，要“汲”茶，窄口的茶入，要“掬”茶）
-22. 筒茶碗深き底よりふき上がり 重ねて内へやらぬもの
+22. 筒茶碗深き底よりふき上がり 重ねて内へやらぬもの  
+    tsutsuchawan fukaki soko yori fukiagari kasanete uchi he te wo yaranu mono  
    （筒茶碗底深，要先用茶巾拭底，再拭口沿）
-23. 乾きたる茶巾使はば湯はすこしこぼし残してあしらうぞよき
+23. 乾きたる茶巾使はば湯はすこしこぼし残してあしらうぞよき  
+    kawakitaru chakin tsuhaba yu ha sukoshi koboshi nokoshite ashira fuzoyoki  
    （如果茶巾用起来太干了，之前茶筅通时碗底少留些热水）
-24. 炭置くはたとへ習ひにそむくとも 湯のよくたぎる炭は炭なり
-   （）
-25. 客になり炭つぐならばそのたびに 薫物などはくべぬことなり
-26. 炭つがば五徳はさむな十文字 縁をきらすな釣合いをみよ
-27. 焚え残る白炭あらば捨て置きて また余の炭を置くものぞかし
-28. 崩れたるその白炭をとりあげて 又たきそへることはなきなり
-29. 炭おくも習ひばかりにかかはりて 湯のたぎらざる炭は消え炭
-30. 風炉の炭見ることはなし見ぬとても 見ぬこそ猶も見る心なれ
-31. 客になり風炉の其うち見る時に 炭崩れなん気づかひをせよ
+24. 炭置くはたとへ習ひにそむくとも 湯のよくたぎる炭は炭なり  
+    sumi oku ha tatohe narai ni somuku tomo yu no yoku tagiru sumi ha sumi nari  
+   （学习中对炭的放置虽有诸多规定，但根本是要把汤煮沸）
+25. 客になり炭つぐならばそのたびに 薫物などはくべぬことなり  
+    kyaku ni nari sumi tsugu naraba sono tabi ni takimono nado ha kubenu koto nari  
+   （如果作为客人放置了炭，那么一定要亭主来放置薰物）
+26. 炭つがば五徳はさむな十文字 縁をきらすな釣合いをみよ  
+    sumi tsugaba gotoku hasamuna jyuumonji fuchi wo kirasuna tsuriai wo miyo  
+   （置炭时，不要倚着五德，不要呈十字形，不要过于间疏，要掌握整体的平衡感）
+27. 焚え残る白炭あらば捨て置きて また余の炭を置くものぞかし  
+    moe nokoru shirazumi araba suteokite mata yo no sumi wo oku mo nozokashi  
+   （残留的枝炭不要去整理，可继续添加其他的炭）
+28. 崩れたるその白炭をとりあげて 又たきそへることはなきなり  
+    kuzuretaru sono sorozumi wo toriagete mata takisoheru to ha nakinari  
+   （没有燃尽而崩落的枝炭，不要再把它拾起加入火中）
+29. 炭おくも習ひばかりにかかはりて 湯のたぎらざる炭は消え炭  
+    sumi oku mo narahi bakari ni kakaharite yu no tagirazaru sumi ha kie sumi  
+   （置炭当然要遵从所学，但若不能把汤煮沸，那就跟无炭是一样的）
+30. 風炉の炭見ることはなし見ぬとても 見ぬこそ猶も見る心なれ  
+    furo no sumi miru koto ha nashi minu kototemo minu koso nao mo miru kokoro nare  
+   （风炉时无法拜见炭手前，但要犹如在心中拜见一样）    
+31. 客になり風炉の其うち見る時に 炭崩れなん気づかひをせよ  
+    kyaku ni nari furo no sonouchi miru toki ni hai kazure nan kikzukahi wo seyo  
    （客人拜见风炉内部时，不要把灰形弄崩塌）
-32. 客になり底取るならばいつにても 囲炉裡の炭を崩し尽すな
+32. 客になり底取るならばいつにても 囲炉裡の炭を崩し尽すな  
+    kyaku ni nari soko toru naraba itsu ni temo irori no kado wo kuzushi tsukusu na  
    （客人从围炉底取灰时，不要把炉内四角的炭形弄崩塌）
-33. 墨蹟をかける時にはたくぼくを 末座の方へ大方はひけ
+33. 墨蹟をかける時にはたくぼくを 末座の方へ大方はひけ  
+    bokuseki wo kakeru toki ni ha takuboku wo matsuza no hou he ookata ha hike  
    （悬挂墨迹挂轴时，卷绪要放在下座方向）
-34. 絵の物を掛る時にたくぼくを 印ある方へ引きおくもよし
+34. 絵の物を掛る時にたくぼくを 印ある方へ引きおくもよし  
+    e no mono wo kakeru toki ni ha takuboku wo shirushi aru hou he hikioku mo yoshi  
    （悬挂绘物挂轴时，卷绪放在印款方向）
-35. 絵掛けものひだり右向きむかふむき 使ふも床の勝手にぞよる
+35. 絵掛けものひだり右向きむかふむき 使ふも床の勝手にぞよる  
+    ekake mono no hidari migi muki mukafu muki tsukafu mo toko no katte ni zo yoru  
    （绘挂主题的左右方向取决于床的勝手方向）
-36. 掛物の釘打つならば大輪より 九分下げて打て釘も九分なり
-   （挂物的竹钉在天花板下九分，钉的长度也是九分）
-37. 床にまた和歌の類をば掛るなら 外に歌書をば荘（かざ）らぬと知れ
-38. 外題あるものを余所にて見るときは 先づ外題をば見せて披（ひら）けよ
-39. 品々の釜によりての名は多し 釜の総名鑵子（かんす）とぞいふ
-40. 冬の釜囲炉裏縁より六七分 高くすえるぞ習ひなりける
+36. 掛物の釘打つならば大輪より 九分下げて打て釘も九分なり  
+    kakemono no kugi utsu naraba tairin yori kubu sagatte utte kugi mo kubu nari  
+   （挂物的竹钉在天花板下九分，钉的长度也是九分，约27厘米）
+37. 床にまた和歌の類をば掛るなら 外に歌書をば荘（かざ）らぬと知れ  
+    toko ni mata waka no rui wo ba kakeru nara soto ni kasho wo ba kazaranu to shire  
+   （如果床之间悬挂了和歌类的挂物，就不要在其他地方以歌书作为装饰）
+38. 外題あるものを余所にて見るときは 先づ外題をば見せて披（ひら）けよ  
+    gedai aru mono wo yoso nite miru toki ha mazu gedai wo ba misete hirakeyo  
+   （如果你看到挂轴有外题，那么首先拜见外题，之后悬挂挂轴）
+39. 品々の釜によりての名は多し 釜の総名鑵子（かんす）とぞいふ  
+    shinajina no kama ni yorite no na ha ooshi kama no soumyou kansu to zoifu  
+   （釜有各种形状各种名字，但可以总称为“罐子”）
+40. 冬の釜囲炉裏縁より六七分 高くすえるぞ習ひなりける  
+    fuyu no kama irori fuchi yori roku nana bu takaku surueruzo narahinarikere  
+   （冬季，釜口应该高出围炉里的边缘六七分，约2厘米）
 41. 姥口は囲炉裏縁より六七分 低くすえるぞ習ひなりける
 42. 置き合わせ心をつけて見るぞかし 袋は縫目畳目に置け
 43. はこびだて水指しおくは横畳 二つ割にてまんなかに置け
