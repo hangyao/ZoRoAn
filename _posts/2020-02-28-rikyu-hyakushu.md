@@ -162,26 +162,66 @@ tags: [featured]
 40. 冬の釜囲炉裏縁より六七分 高くすえるぞ習ひなりける  
     fuyu no kama irori fuchi yori roku nana bu takaku surueruzo narahinarikere  
    （冬季，釜口应该高出围炉里的边缘六七分，约2厘米）
-41. 姥口は囲炉裏縁より六七分 低くすえるぞ習ひなりける
-42. 置き合わせ心をつけて見るぞかし 袋は縫目畳目に置け
-43. はこびだて水指しおくは横畳 二つ割にてまんなかに置け
-44. 茶入又茶筅のかねをよくも知れ あとに残せる道具目当てに
-45. 水指に手桶出さば手は横に 前の蓋とりさきに重ねよ
-46. 釣瓶こそ手は竪に置け蓋取らば 釜に近づく方と知るべし
-47. 余所などへ花をおくらば其花は 開きすぎはやらぬものなり
-48. 小板にて濃茶を立てば茶巾をば 小板の端におくものぞかし
-49. 喚鐘は大と小とに中々(ちゅうちゅう)に 大と五つの数をうつなり
-50. 茶入れより茶掬ふには心得て 初中後すくへそれが秘事也
-51. 湯を汲むは柄杓に心つきの輪の そこねぬように覚悟して汲む
-52. 柄杓にて湯を汲む時の習には三つの心得あるものぞかし
-53. 湯を汲みて茶碗に入るる其時の 柄杓のねぢは肱よりぞする
-54. 柄杓にて白湯と水とを汲む時は 汲むと思はじ持つと思はじ
-55. 茶を振るは手先をふると思ふなよ 臂（ひじ）よりふれよそれが秘事なり
-56. 羽箒は風爐に右羽よ爐の時は 左羽をば使ふとぞしる
-57. 名物の茶碗出でたる茶の湯には 少し心得かはるとぞ知れ
-58. 暁は数寄屋のうちも行燈に 夜会などには短檠（たんけい）を置け
-59. ともしびに陰と陽との二つあり あかつき陰によひは陽なり
-60. 燈火に油をつがば多くつげ 客にあかざる心得と知れ
+41. 姥口は囲炉裏縁より六七分 低くすえるぞ習ひなりける  
+    ubakuchi ha irori fuchi yori roku nana bu hikuku sueruzo narahi naikeru  
+   （姥口釜的口应该低于围炉里的边缘六七分，约2厘米）
+42. 置き合わせ心をつけて見るぞかし 袋は縫目畳目に置け  
+    okiawase kokoro wo tsukete miruzokashi fukuro ha neui me tatami me ni oke  
+   （置合时，仕覆的缝目应当与畳目对齐）
+43. はこびだて水指しおくは横畳 二つ割にてまんなかに置け  
+    hakobi de mizusashi oku ha  yoko tatami futatsu wari ni te mannaka ni oke  
+   （运点前时，水指要放置在畳横向的中心）
+44. 茶入又茶筅のかねをよくも知れ あとに残せる道具目当てに  
+    chaire mata chasen no kane wo yoku mo shire ato ni nokoseru dogu meate ni  
+   （茶入和茶筅的位置应以其他道具的位置作为参考）
+45. 水指に手桶出さば手は横に 前の蓋とりさきに重ねよ  
+    mizusashi ni teoke dasaba te ha yoko ni mae no kama tori saki ni kasane yo  
+   （使用手桶水指时，提手横置，打开前盖，重叠放在后盖上面）
+46. 釣瓶こそ手は竪に置け蓋取らば 釜に近づく方と知るべし  
+    tsurube koso te ha tate ni oke futa toraba kama ni chikazuku hou to shiru beshi  
+   （使用钓瓶水指时，竖置，水指盖从离釜近的一方打开）
+47. 余所などへ花をおくらば其花は 開きすぎはやらぬものなり  
+    yoso nado he hana wo okuraba sono hana ha akisugishi ha yaranu mono nari  
+   （送人花时，应送未开放的花）
+48. 小板にて濃茶を立てば茶巾をば 小板の端におくものぞかし  
+    koita ni te koicha wo tateba chakin wo ba koita no hashi ni oku monozokashi  
+   （点浓茶使用小板（荒目板）时，茶巾放在小板上）
+49. 喚鐘は大と小とに中々(ちゅうちゅう)に 大と五つの数をうつなり  
+    kanshou ha dai to shou to ni nakanaka ni dai to itsutsu no kazu wo utsuri  
+   （使用唤钟时，敲击大小中中大五回）
+50. 茶入れより茶掬ふには心得て 初中後すくへそれが秘事也  
+    chaire yori cha sukufu ni ha kokoroete shochuugo sukue sore ga hiji se  
+   （从茶入中掬茶时，谨记初、中、后三勺的心得：序、破、急）
+51. 湯を汲むは柄杓に心つきの輪の そこねぬように覚悟して汲む  
+    yu wo kumu ha hishaku ni kokorotsuki no wa no sokone nuyau ni kakugo shitekumu  
+   （使用柄勺汲汤时，注意不要损伤柄与合连接处的月轮）
+52. 柄杓にて湯を汲む時の習には三つの心得あるものぞかし  
+    hishaku ni te yu wo kumu toki no narai ni ha mitsu no kokoroe aru mono zokashi  
+   （谨记柄勺汲汤的三个心得：1.不要汲太满，合的九分目就好；2.汤从底部汲，水从中部汲；3.不要油柄勺：为了让水滴下而上下振动柄勺）
+53. 湯を汲みて茶碗に入るる其時の 柄杓のねぢは肱よりぞする  
+    yu wo kamite chawan ni hairuru sono toki no hishaku no neji ha hiji yori zosuru  
+   （汲汤入茶碗时，应当转动肘部而不是手腕）
+54. 柄杓にて白湯と水とを汲む時は 汲むと思はじ持つと思はじ  
+    hishaku ni te sayu to mizu to wo kumu toki ha kumu to omohaji motsu to omohaji  
+   （使用柄勺汲汤和水时，不要想着用柄勺“汲”水或者“持”柄勺：用手肘而不是手腕）
+55. 茶を振るは手先をふると思ふなよ 臂（ひじ）よりふれよそれが秘事なり  
+    cha wo furu ha tesaki wo furu to omofu na yo hiji yori guresore ga hiji nari  
+   （点茶的秘诀是手肘动，而不是手腕或手指）
+56. 羽箒は風爐に右羽よ爐の時は 左羽をば使ふとぞしる  
+    habouki ha furo ni migibane yo ro no toki ha hidaribane wo ba tsukafu to zoshiru  
+   （风炉时使用右羽根的羽箒，炉时使用左羽根的）
+57. 名物の茶碗出でたる茶の湯には 少し心得かはるとぞ知れ  
+    meibutsu no chawan idetaru cha no yu ni ha sukoshi kokoroe ka haru to zo shire  
+   （使用名物或由绪的茶碗时，与平常不同，应当使用特殊的手法）
+58. 暁は数寄屋のうちも行燈に 夜会などには短檠（たんけい）を置け  
+    akatsuki ha sukiya no uchi mo andon ni yakai nado ni ha tankei wo oke  
+   （晓茶事时使用行灯，夜咄茶事时使用短檠）
+59. ともしびに陰と陽との二つあり あかつき陰によひは陽なり  
+    tomoshibi ni kage to hi to no futatsu ari agatsuki kage ni yohi ha hi nari  
+   （正是因为有阴阳二分，晓时要用阴的照明，宵时要用阳的照明）
+60. 燈火に油をつがば多くつげ 客にあかざる心得と知れ  
+    tomoshibi ni yu wo tsugaba ooku tsuge kyaku ni akazaru kokoroe to shire  
+   （多放灯油，用长的灯芯，客人才会安心）
 61. いにしへは夜会などには床の内 掛物花は なしとこそきけ
 62. 炉のうちは炭斗瓢柄の火箸 陶器香合ねり香としれ
 63. 風炉の時炭は菜籠（さいろ）にかね火箸 ぬり香合に白檀をたけ
