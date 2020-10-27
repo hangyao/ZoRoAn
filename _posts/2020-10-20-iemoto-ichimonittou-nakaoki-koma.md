@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "中置时庄物点前"
+title:  "小间茶席不宜中置点前"
 author: sochiku
 categories: [ Ichimon Ittou ]
 image: assets/images/ukiyoe-shinsui-ito-chanoyu.jpg
