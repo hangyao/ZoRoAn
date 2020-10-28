@@ -222,45 +222,129 @@ tags: [featured]
 60. 燈火に油をつがば多くつげ 客にあかざる心得と知れ  
     tomoshibi ni yu wo tsugaba ooku tsuge kyaku ni akazaru kokoroe to shire  
    （多放灯油，用长的灯芯，客人才会安心）
-61. いにしへは夜会などには床の内 掛物花は なしとこそきけ
-62. 炉のうちは炭斗瓢柄の火箸 陶器香合ねり香としれ
-63. 風炉の時炭は菜籠（さいろ）にかね火箸 ぬり香合に白檀をたけ
-64. いにしへは名物などの香合へ 直ちにたきもの入れぬとぞきく
-65. 蓋置に三つ足あらば一つ足 まへにつかふと心得ておけ
-66. 二畳台三畳台の水指は まづ九つ目におくが法なり
-67. 茶巾をば長み布はば一尺に 横は五寸のかね尺としれ
-68. 帛紗をば竪は九寸よこ巾は八寸八分曲尺にせよ
-69. うす板は床かまちより十七目 または十八十九目におけ
-70. うす板は床の大小また花や 花生によりかはるしなしな
-71. 花入の折釘うつは地敷居より 三尺三寸五分余もあり
-72. 花入に大小あらば見合わせよ かねをはずして打つがかねなり
-73. 竹釘は皮目を上にうつぞかし 皮目を下になすこともあり
-74. 三つ釘は中の釘より両脇と 二つわりなるまんなかに打て
-75. 三幅の軸をかけるは中をかけ 軸さきをかけつぎは軸もと
-76. 掛物をかけて置くには壁付を 三四分すかしおくことときく
-77. 時ならず客の来らば点前をば 心は草にわざをつつしめ
-78. 花見よりかへりの人に茶の湯せば 花鳥の絵をも花も置きまじ
-79. 釣舟はくさりの長さ床により 出船入船浮舟と知れ
-80. 壺などを床に飾らん心あらば 花より上にかざりおくべし
-81. 風炉濃茶必ず釜に水さすと 一筋に思ふ人はあやまり
-82. 右の手を扱ふ時はわが心 左の方にあるとしるべし
-83. 一点前点るうちには善悪と 有無の心のわかちをも知る
-84. なまるとは手つづき早く又おそく ところどころのそろはぬをいふ
-85. 点前には重きを軽く軽きをば 重く扱ふ味ひをしれ
-86. 盆石をかざりし時の掛物に 山水などはさしあひとしれ
-87. 板床に葉茶壺茶入品々を かざらでかざる法もありけり
-88. 床の上に籠花入れを置く時は 薄板などはしかぬものなり
-89. 掛け物や花を拝見する時は 三尺ほどは座をよけてみよ
-90. 稽古とは一より習い十を知り 十よりかへるもとのその一
-91. 茶の湯をば心に染めて眼にかけず 耳をひそめてきくこともなし
-92. 目にも見よ耳にもふれよ香を嗅ぎて ことを問いつつよく合点せよ
-93. 習いをばちりあくたぞと思へかし 書物は反古腰張りにせよ
-94. 茶を点てば茶筅に心よくつけて 茶碗の底へ強くあたるな
-95. 水と湯と茶巾茶筅に箸楊枝 柄杓と心あたらしきよし
-96. 茶はさびて心はあつくもてなせよ 道具はいつも有合にせよ
-97. 釜一つあれば茶の湯はなるものを 数の道具をもつは愚かな
-98. かず多くある道具をも押しかくし 無きがまねする人も愚かな
-99. 茶の湯には梅寒菊に黄葉み落ち 青竹枯れ木あかつきの霜
-100. 茶の湯とはただ湯をわかして茶を点てて のむばかりなる事と知るべし
-101. もとよりもなきいにしへの法なれど 今ぞ極まる本来の法
-102. 規矩作法守りつくして破るとも 離るるとても本を忘るな
+61. いにしへは夜会などには床の内 掛物花は なしとこそきけ  
+    inishihe ha yakai ni ha toko no uchi kakemono hana ha nashi toko sokike  
+   （利休之前的时代，夜咄茶事的床之间不用挂物或花）
+62. 炉のうちは炭斗瓢柄の火箸 陶器香合ねり香としれ  
+    ro no uchi ha sumitorifukubee no hibashi touki kougou neri kou to shire  
+   （炉的季节用瓢炭斗、桑柄火箸、陶器香合，和练香）
+63. 風炉の時炭は菜籠（さいろ）にかね火箸 ぬり香合に白檀をたけ  
+    furo no toki sumi ha sairou ni kane hibashi nuri kougou byakudan wo take  
+   （风炉的季节用笼炭斗、金属的火箸、涂物香合，和白檀）
+64. いにしへは名物などの香合へ 直ちにたきもの入れぬとぞきく  
+    inichihe ha meibutsu nado no kougou he tadachini kimono irenu to zokiku  
+   （使用名物或拜领物的香合时，用纸或叶片铺在香的下面）
+65. 蓋置に三つ足あらば一つ足 まへにつかふと心得ておけ  
+    futaoki ni mitsu ashi araba hitotsu ashi mahe ni tsukafu to kokoroete oke  
+   （使用三足的盖置时，记住一足应该面向自己）
+66. 二畳台三畳台の水指は まづ九つ目におくが法なり  
+    ni jyoudai san jyoudai no mizusashi ha mazu kokonotsu me ni oku ga hou nari  
+   （台目畳点前时，水指的位置应该距离客畳九目）
+67. 茶巾をば長み布はば一尺に 横は五寸のかね尺としれ  
+    chakin wo ba nagami no ha ba isshaku ni yoko ha gosun no kane shaku to shire  
+   （茶巾的尺寸，长一尺，宽五寸，约30x15厘米）
+68. 帛紗をば竪は九寸よこ巾は八寸八分曲尺にせよ  
+    shifuku wo ba tate ha kyussun yokogire ha hassun hachibu kanejaku ni seyo  
+   （帛纱的尺寸，长九寸，宽八寸八分，约27x26厘米）
+69. うす板は床かまちより十七目 または十八十九目におけ  
+    usuita ha toko kamachi yori jyuunaname mata ha jyuuhachi jyuukyume ni oke  
+   （薄板应放在距床框17至19目的位置）
+70. うす板は床の大小また花や 花生によりかはるしなしな  
+    usuita ha toko no daishou mata hana ya hanaike ni yori kaharu shinashina  
+   （薄板的样式取决于床、花和花入的形式）
+71. 花入の折釘うつは地敷居より 三尺三寸五分余もあり  
+    hanaire no orekugi utsu ha chi shikii yori sanjyaku sanzun gobu yo mo ari  
+   （床壁挂花入用的无双钉/中钉应该距床框一米高的位置）
+72. 花入に大小あらば見合わせよ かねをはずして打つがかねなり  
+    hanaire ni daishou araba miawase yo kane wo hazushite utsu ga kanenari  
+   （根据花入大小灵活变动钉的位置）
+73. 竹釘は皮目を上にうつぞかし 皮目を下になすこともあり  
+    takekugi ha himoku wo ue ni utsuzokashi himoku wo shita ni nasu koto mo ari  
+   （竹钉原则上皮目朝上，但也有皮目朝下的情况）
+74. 三つ釘は中の釘より両脇と 二つわりなるまんなかに打て  
+    mitsu kugi ha naka no kugi yori ryouwaki to futatsu wari naru mannaka ni utsu  
+   （三枚钉除中钉外的其余两钉，应打在中钉与床左右两侧的中心：四等分床的宽度）
+75. 三幅の軸をかけるは中をかけ 軸さきをかけつぎは軸もと  
+    sanpuku no jiku wo kakeru ha naka wo kakejiku saki wo kake tsugi ha jiku moto  
+   （悬挂三幅挂轴时，先挂中间的挂物，再挂文字内容起始的挂物，通常是左边，最后挂文字内容结束的挂物，通常是右边）
+76. 掛物をかけて置くには壁付を 三四分すかしおくことときく  
+    kakemono wo kakete oku ni ha kabetsuki wo san yon busukashi oku koto to kiku  
+   （）
+77. 時ならず客の来らば点前をば 心は草にわざをつつしめ  
+    toki narazu kyaku no kuraba temae wo ba kokoro ha sou ni waza wo tsutsushime  
+   （）
+78. 花見よりかへりの人に茶の湯せば 花鳥の絵をも花も置きまじ  
+    hanami yori kaheri no hito ni cha no yu seba kachou no e wo mo hana mo oke maji  
+   （）
+79. 釣舟はくさりの長さ床により 出船入船浮舟と知れ  
+    tsurifune ha kusari no nagasa toko ni yori defune irifune ukifune to shire  
+   （）
+80. 壺などを床に飾らん心あらば 花より上にかざりおくべし  
+    tsubo nado wo toko ni kazaran kokoro araba hana yori ue ni kazari oku beshi  
+   （）
+81. 風炉濃茶必ず釜に水さすと 一筋に思ふ人はあやまり  
+    furo koicha kanarazu kama ni mizu sasu to hitosuji ni omou hito wa ayamari  
+   （）
+82. 右の手を扱ふ時はわが心 左の方にあるとしるべし  
+    migi no te o atsukau toki wa waga kokoro hidari no houni aruto shirubeshi  
+   （）
+83. 一点前点るうちには善悪と 有無の心のわかちをも知る  
+    hito temae tateru uchi ni wa yoshi ashi to umu no kokoro no wakachi o mo shiru  
+   （）
+84. なまるとは手つづき早く又おそく ところどころのそろはぬをいふ  
+    namaru towa tetsuzuki hayaku mata osoku tokorodokoro no sorowanu o iu  
+   （）
+85. 点前には重きを軽く軽きをば 重く扱ふ味ひをしれ  
+    temae ni wa omoki o karuku karuki oba omoku atsukau ajiwai o shire  
+   （）
+86. 盆石をかざりし時の掛物に 山水などはさしあひとしれ  
+    bonseki o kazarishi tokino kakemono ni sansui nadoha sashiai to shire  
+   （）
+87. 板床に葉茶壺茶入品々を かざらでかざる法もありけり  
+    itadoko ni hachatsubo chaire shinajina o kazarade kazaru hou mo arikeri  
+   （）
+88. 床の上に籠花入れを置く時は 薄板などはしかぬものなり  
+    toko no ue ni kago hanaire o okutoki wa usuita nado wa shikanumono nari  
+   （）
+89. 掛け物や花を拝見する時は 三尺ほどは座をよけてみよ  
+    kakemono ya hana o haiken suru tokoha sanshaku hodoha za o yokete miyo  
+   （）
+90. 稽古とは一より習い十を知り 十よりかへるもとのその一  
+    keiko toha ichi yori narai ju o shiri ju yori keru motono sono ichi  
+   （）
+91. 茶の湯をば心に染めて眼にかけず 耳をひそめてきくこともなし  
+    chanoyu oba kokoro ni somete me ni kakezu mimi o hisomete kiku koto mo nashi  
+   （）
+92. 目にも見よ耳にもふれよ香を嗅ぎて ことを問いつつよく合点せよ  
+    menimomiyo miminimo fureyo ka o kagite koto wo toitsutsu yoku gatten seyo  
+   （）
+93. 習いをばちりあくたぞと思へかし 書物は反古腰張りにせよ  
+    narai oba chiri a kuta zo to omohe ka shi shomotsu wa hogo koshibari ni seyo  
+   （）
+94. 茶を点てば茶筅に心よくつけて 茶碗の底へ強くあたるな  
+    cha o tateba chasen ni kokoro yoku tsukete chawan no soko he tsuyoku ataruna  
+   （）
+95. 水と湯と茶巾茶筅に箸楊枝 柄杓と心あたらしきよし  
+    mizu to yu to chakin chasen ni hashi youji hishaku to kokoro atarashi kiyoshi  
+   （）
+96. 茶はさびて心はあつくもてなせよ 道具はいつも有合にせよ  
+    cha wa sabite kokoro wa atsuku motenaseyo dogu wa itsumo ariai ni seyo  
+   （）
+97. 釜一つあれば茶の湯はなるものを 数の道具をもつは愚かな  
+    kama hitotsu areba chanoyu wa naru mono o kazu no dogu o motsu wa orokana  
+   （）
+98. かず多くある道具をも押しかくし 無きがまねする人も愚かな  
+    Kazu ouku aru dougu o mo oshi kakushinaki ga mane suru hito mo orokana  
+   （）
+99. 茶の湯には梅寒菊に黄葉み落ち 青竹枯れ木あかつきの霜  
+    chanoyu ni wa: ume, kangiku ni, momiji miochi, aodake, kare ki, akatsuki no shimo  
+   （）
+100. 茶の湯とはただ湯をわかして茶を点てて のむばかりなる事と知るべし  
+    chanoyu to hatada yu o wakashite cha o tatete nomu bakari naru koto to shirubeshi  
+   （）
+101. もとよりもなきいにしへの法なれど 今ぞ極まる本来の法  
+    motoyori mo naki inishihe no hounaredo ima zo kiwamaru honrai no hou  
+   （）
+102. 規矩作法守りつくして破るとも 離るるとても本を忘るな  
+    kikusahou mamoritsukushite yaburutomo hanarurutotemo moto o wasuruna  
+   （）
