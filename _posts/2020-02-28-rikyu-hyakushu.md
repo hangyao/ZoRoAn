@@ -269,82 +269,82 @@ tags: [featured]
    （悬挂三幅挂轴时，先挂中间的挂物，再挂文字内容起始的挂物，通常是左边，最后挂文字内容结束的挂物，通常是右边）
 76. 掛物をかけて置くには壁付を 三四分すかしおくことときく  
     kakemono wo kakete oku ni ha kabetsuki wo san yon busukashi oku koto to kiku  
-   （）
+   （挂物要与墙壁之间空出三四分，约1厘米）
 77. 時ならず客の来らば点前をば 心は草にわざをつつしめ  
     toki narazu kyaku no kuraba temae wo ba kokoro ha sou ni waza wo tsutsushime  
-   （）
+   （有不意之客时，应抱持谦虚谨慎之心招待）
 78. 花見よりかへりの人に茶の湯せば 花鳥の絵をも花も置きまじ  
     hanami yori kaheri no hito ni cha no yu seba kachou no e wo mo hana mo oke maji  
-   （）
+   （当茶会招待从花见回来的客人时，不应使用绘有花鸟的挂物或花的装饰）
 79. 釣舟はくさりの長さ床により 出船入船浮舟と知れ  
     tsurifune ha kusari no nagasa toko ni yori defune irifune ukifune to shire  
-   （）
+   （釣舟花入的形式由床之间的高度、锁的长度决定，有出船（船尾/舻指向床的中心）、入船（船首/舳先指向床的中心）、浮舟（锁放置在床上）的区别）
 80. 壺などを床に飾らん心あらば 花より上にかざりおくべし  
     tsubo nado wo toko ni kazaran kokoro araba hana yori ue ni kazari oku beshi  
-   （）
+   （床之间装饰茶壶时，茶壶要放置在花入的上座）
 81. 風炉濃茶必ず釜に水さすと 一筋に思ふ人はあやまり  
     furo koicha kanarazu kama ni mizu sasu to hitosuji ni omou hito wa ayamari  
-   （）
+   （风炉浓茶时，点茶前必须要向釜内舀一勺水）
 82. 右の手を扱ふ時はわが心 左の方にあるとしるべし  
     migi no te o atsukau toki wa waga kokoro hidari no houni aruto shirubeshi  
-   （）
+   （右手取用道具时，左手往往被忽视，因此要留心并集中精神）
 83. 一点前点るうちには善悪と 有無の心のわかちをも知る  
     hito temae tateru uchi ni wa yoshi ashi to umu no kokoro no wakachi o mo shiru  
-   （）
+   （点前时请抛却善恶、有无之心）
 84. なまるとは手つづき早く又おそく ところどころのそろはぬをいふ  
     namaru towa tetsuzuki hayaku mata osoku tokorodokoro no sorowanu o iu  
-   （）
+   （不要做没有快慢节奏的点前，那叫做“钝点/なまる”）
 85. 点前には重きを軽く軽きをば 重く扱ふ味ひをしれ  
     temae ni wa omoki o karuku karuki oba omoku atsukau ajiwai o shire  
-   （）
+   （点前要举轻若重，举重若轻）
 86. 盆石をかざりし時の掛物に 山水などはさしあひとしれ  
     bonseki o kazarishi tokino kakemono ni sansui nadoha sashiai to shire  
-   （）
+   （床之间装饰盆石时，其上不要悬挂山水画的挂轴）
 87. 板床に葉茶壺茶入品々を かざらでかざる法もありけり  
     itadoko ni hachatsubo chaire shinajina o kazarade kazaru hou mo arikeri  
-   （）
+   （板床的场合，原则上不装饰茶壶、茶入等等，但也可以通过铺垫奉书纸来装饰）
 88. 床の上に籠花入れを置く時は 薄板などはしかぬものなり  
     toko no ue ni kago hanaire o okutoki wa usuita nado wa shikanumono nari  
-   （）
+   （笼花入已有受筒，因此在床上装饰时不需要再用薄板）
 89. 掛け物や花を拝見する時は 三尺ほどは座をよけてみよ  
     kakemono ya hana o haiken suru tokoha sanshaku hodoha za o yokete miyo  
-   （）
+   （拜见床上的挂物或花时，要距离三尺，约90厘米）
 90. 稽古とは一より習い十を知り 十よりかへるもとのその一  
     keiko toha ichi yori narai ju o shiri ju yori keru motono sono ichi  
-   （）
+   （稽古是从一学到十，再返回到起点）
 91. 茶の湯をば心に染めて眼にかけず 耳をひそめてきくこともなし  
     chanoyu oba kokoro ni somete me ni kakezu mimi o hisomete kiku koto mo nashi  
-   （）
+   （茶道不是通过目见耳闻能学习到的，需要用心实践）
 92. 目にも見よ耳にもふれよ香を嗅ぎて ことを問いつつよく合点せよ  
-    menimomiyo miminimo fureyo ka o kagite koto wo toitsutsu yoku gatten seyo  
-   （）
+    menimomiyo miminimo fureyo ka o kagite koto wo toitsutsu yoku gaten seyo  
+   （稽古时要多听多看多嗅，运用五感，提出问题并理解）
 93. 習いをばちりあくたぞと思へかし 書物は反古腰張りにせよ  
     narai oba chiri a kuta zo to omohe ka shi shomotsu wa hogo koshibari ni seyo  
-   （）
+   （学习的不过是尘芥，书物不过是铺墙纸。茶道需要实践，不能依赖稽古帐）
 94. 茶を点てば茶筅に心よくつけて 茶碗の底へ強くあたるな  
     cha o tateba chasen ni kokoro yoku tsukete chawan no soko he tsuyoku ataruna  
-   （）
+   （点茶时注意茶筅，不要用力冲击茶碗的底部）
 95. 水と湯と茶巾茶筅に箸楊枝 柄杓と心あたらしきよし  
     mizu to yu to chakin chasen ni hashi youji hishaku to kokoro atarashi kiyoshi  
-   （）
+   （迎接客人时，水、汤、茶巾、茶筅、箸、杨枝、柄杓，以及待客之心，都要使用新的）
 96. 茶はさびて心はあつくもてなせよ 道具はいつも有合にせよ  
     cha wa sabite kokoro wa atsuku motenaseyo dogu wa itsumo ariai ni seyo  
-   （）
+   （茶道需要质朴之心，道具要恰当并符合身份）
 97. 釜一つあれば茶の湯はなるものを 数の道具をもつは愚かな  
     kama hitotsu areba chanoyu wa naru mono o kazu no dogu o motsu wa orokana  
-   （）
+   （又要有一口釜就可以行茶道，不需要很多的道具）
 98. かず多くある道具をも押しかくし 無きがまねする人も愚かな  
     Kazu ouku aru dougu o mo oshi kakushinaki ga mane suru hito mo orokana  
-   （）
+   （道具因使用才有价值，收藏不用的道具没有价值）
 99. 茶の湯には梅寒菊に黄葉み落ち 青竹枯れ木あかつきの霜  
     chanoyu ni wa: ume, kangiku ni, momiji miochi, aodake, kare ki, akatsuki no shimo  
-   （）
+   （茶道就是黄叶落下时的梅花和寒菊，清晨起霜时的青竹和枯木。此处的要点是季节感与阴阳调和）
 100. 茶の湯とはただ湯をわかして茶を点てて のむばかりなる事と知るべし  
     chanoyu to hatada yu o wakashite cha o tatete nomu bakari naru koto to shirubeshi  
-   （）
+   （茶道并不困难，无非是把汤煮沸，点茶来饮这样的平常事）
 101. もとよりもなきいにしへの法なれど 今ぞ極まる本来の法  
     motoyori mo naki inishihe no hounaredo ima zo kiwamaru honrai no hou  
-   （）
+   （茶道的目的不是一种游艺，真正的目的是养心）
 102. 規矩作法守りつくして破るとも 離るるとても本を忘るな  
     kikusahou mamoritsukushite yaburutomo hanarurutotemo moto o wasuruna  
-   （）
+   （无论对规矩做法的态度是守、破，还是离，都不可以忘记根本）
