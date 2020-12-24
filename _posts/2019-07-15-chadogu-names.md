@@ -2,7 +2,7 @@
 layout: post
 title:  "茶道具读法"
 author: sochiku
-categories: [ Vocabulary ]
+categories: [ 辞典 ]
 image: assets/images/joou-rikyu-look-iga-hanaire.jpg
 tags: []
 ---

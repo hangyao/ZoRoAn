@@ -2,7 +2,7 @@
 layout: post
 title:  "里千家点前"
 author: soshu
-categories: [ Temae, Urasenke ]
+categories: [ 点前, 裏千家 ]
 image: assets/images/honunsai-and-deng-xiaoping.jpg
 tags: [featured]
 ---

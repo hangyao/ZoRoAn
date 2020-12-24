@@ -2,7 +2,7 @@
 layout: post
 title:  "织部日（織部の日）"
 author: soshu
-categories: [ Oribe, History ]
+categories: [ 織部, 历史 ]
 image: assets/images/hyouge-mono-oribe.jpg
 tags: [featured]
 ---

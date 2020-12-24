@@ -2,7 +2,7 @@
 layout: post
 title:  "利休斗々屋"
 author: soshu
-categories: [ Chawan ]
+categories: [ 茶碗 ]
 image: assets/images/rikyu-totoya.jpg
 tags: [ featured ]
 ---

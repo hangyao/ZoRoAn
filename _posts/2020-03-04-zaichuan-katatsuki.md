@@ -2,7 +2,7 @@
 layout: post
 title:  "在中庵肩衝"
 author: soshu
-categories: [ Chaire ]
+categories: [ 茶入 ]
 image: assets/images/zaichuan-katatsuki.jpg
 tags: [ featured ]
 ---

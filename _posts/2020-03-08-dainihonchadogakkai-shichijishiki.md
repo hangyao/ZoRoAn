@@ -2,7 +2,7 @@
 layout: post
 title:  "大日本茶道学会七事式"
 author: sochiku
-categories: [ Temae, Dainihonchadogakkai, Shichiji ]
+categories: [ 点前, 大日本茶道学会, 七事式 ]
 image: assets/images/shichiji-shouyuu.jpg
 tags: []
 ---

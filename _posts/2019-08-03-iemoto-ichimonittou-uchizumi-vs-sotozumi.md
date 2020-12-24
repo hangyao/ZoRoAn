@@ -2,7 +2,7 @@
 layout: post
 title:  "内隅、外隅的正确方法"
 author: sochiku
-categories: [ Ichimon Ittou ]
+categories: [ 一问一答 ]
 image: assets/images/empty-rikyu-tea-room.jpg
 tags: []
 ---

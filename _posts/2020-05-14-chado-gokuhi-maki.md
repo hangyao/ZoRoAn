@@ -2,7 +2,7 @@
 layout: post
 title:  "茶道极秘卷"
 author: soshu
-categories: [ Tea Books ]
+categories: [ 茶书 ]
 image: assets/images/chado-gokuhi-maki.jpg
 tags: [ featured ]
 ---

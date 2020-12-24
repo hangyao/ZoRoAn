@@ -2,7 +2,7 @@
 layout: post
 title:  "点茶心指"
 author: soshu
-categories: [ Tea Books, Soetsu Yanagi ]
+categories: [ 茶书, 柳宗悦 ]
 image: assets/images/yanagi_soetsu.jpg
 tags: []
 ---

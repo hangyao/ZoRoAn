@@ -2,7 +2,7 @@
 layout: post
 title:  "和敬点的历史"
 author: soshu
-categories: [ Temae, Wakeidate, History, Urasenke, Chabako ]
+categories: [ 点前, 和敬点, 历史, 裏千家, 茶箱 ]
 image: assets/images/chabako-wakeidate.jpg
 tags: [ featured ]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "风炉初炭手前的月形灰"
 author: sochiku
-categories: [ Ichimon Ittou ]
+categories: [ 一问一答 ]
 image: assets/images/furosumi-tsukigata.jpg
 tags: []
 ---

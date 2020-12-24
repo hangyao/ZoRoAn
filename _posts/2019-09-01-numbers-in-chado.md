@@ -2,7 +2,7 @@
 layout: post
 title:  "茶道名数"
 author: soshu
-categories: [ Vocabulary ]
+categories: [ 辞典 ]
 image: assets/images/tea-master-hold-chashaku.jpg
 tags: []
 ---

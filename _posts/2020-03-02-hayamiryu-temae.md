@@ -2,7 +2,7 @@
 layout: post
 title:  "速水流点法"
 author: sochiku
-categories: [ Temae, Hayamiryu ]
+categories: [ 点前, 速水流 ]
 image: assets/images/hayamiryu-hayami-soen.jpg
 tags: []
 ---

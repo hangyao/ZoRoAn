@@ -2,7 +2,7 @@
 layout: post
 title:  "在棚物上装饰时，盖置换手持取的原因"
 author: sochiku
-categories: [ Ichimon Ittou ]
+categories: [ 一问一答 ]
 image: assets/images/niijima-yae-temae.jpg
 tags: []
 ---

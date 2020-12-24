@@ -2,7 +2,7 @@
 layout: post
 title:  "现代设计与茶会"
 author: soshu
-categories: [ Design, Chakai, History ]
+categories: [ 设计, 茶会, 历史 ]
 image: assets/images/eames-chakai-01.jpg
 tags: [ sticky ]
 ---

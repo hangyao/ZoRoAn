@@ -2,7 +2,7 @@
 layout: post
 title:  "为何薄茶、浓茶点前行礼的时机不同"
 author: sochiku
-categories: [ Ichimon Ittou ]
+categories: [ 一问一答 ]
 image: assets/images/haiken-tokonoma.jpg
 tags: []
 ---

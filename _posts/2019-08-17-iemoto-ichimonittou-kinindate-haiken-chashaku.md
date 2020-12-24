@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "贵人点茶勺放在仕覆、帛纱上"
+title:  "贵人点茶杓放在仕覆、帛纱上"
 author: sochiku
-categories: [ Ichimon Ittou ]
+categories: [ 一问一答 ]
 image: assets/images/gyaku-laydown.jpg
 tags: []
 ---
@@ -11,7 +11,7 @@ tags: []
 
 第五问
 
-> 贵人点拜见道具时，浓茶茶勺放在仕覆上，薄茶茶勺放在帛纱上，是什么原因？
+> 贵人点拜见道具时，浓茶茶杓放在仕覆上，薄茶茶杓放在帛纱上，是什么原因？
 
 贵人点，茶勺是贵人使用过的。因此，不能直接放在畳上。亭主一方有半东为贵人取置道具，被视为特殊的茶勺就需要放在仕覆、帛纱上面。
 

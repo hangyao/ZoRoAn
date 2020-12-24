@@ -2,7 +2,7 @@
 layout: post
 title:  "相坂丸壷"
 author: soshu
-categories: [ Chaire ]
+categories: [ 茶入 ]
 image: assets/images/osaka-marutsubo.jpg
 tags: [ featured ]
 ---

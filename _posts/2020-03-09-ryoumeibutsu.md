@@ -2,7 +2,7 @@
 layout: post
 title:  "両名物"
 author: sochiku
-categories: [ Temae, Enshuryu ]
+categories: [ 点前, 遠州流 ]
 image: assets/images/ryoumeibutsu.jpg
 tags: []
 ---

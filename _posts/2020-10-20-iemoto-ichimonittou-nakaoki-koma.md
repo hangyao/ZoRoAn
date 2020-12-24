@@ -2,7 +2,7 @@
 layout: post
 title:  "小间茶席不宜中置点前"
 author: sochiku
-categories: [ Ichimon Ittou ]
+categories: [ 一问一答 ]
 image: assets/images/ukiyoe-shinsui-ito-chanoyu.jpg
 tags: []
 ---

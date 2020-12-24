@@ -2,7 +2,7 @@
 layout: post
 title:  "家元一问一答 目录"
 author: sochiku
-categories: [ Temae, Urasenke, Ichimon Ittou ]
+categories: [ 点前, 裏千家, 一问一答 ]
 image: assets/images/learn-koi-cha.jpg
 tags: [ featured ]
 ---

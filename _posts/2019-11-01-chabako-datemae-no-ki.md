@@ -2,7 +2,7 @@
 layout: post
 title:  "茶箱点前の記"
 author: soshu
-categories: [ Tea Books, History, Urasenke ]
+categories: [ 茶书, 历史, 裏千家, 茶箱 ]
 image: assets/images/ukiyoe-zeshin-shibata-hana-kurabe-chonoyu.jpg
 tags: []
 ---

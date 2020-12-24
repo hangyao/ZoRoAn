@@ -2,7 +2,7 @@
 layout: post
 title:  "古今传授之三木三鸟"
 author: soshu
-categories: [ Tea Books ]
+categories: [ 茶书 ]
 image: assets/images/ukiyoe-unknown.jpg
 tags: []
 ---

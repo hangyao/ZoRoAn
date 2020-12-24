@@ -2,7 +2,7 @@
 layout: post
 title:  "表千家习事八条和饰物五条"
 author: sochiku
-categories: [ Temae, Omotesenke ]
+categories: [ 点前, 表千家 ]
 image: assets/images/tea-practice.jpg
 tags: []
 ---
