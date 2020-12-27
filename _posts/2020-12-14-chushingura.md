@@ -3,7 +3,7 @@ layout: post
 title:  "茶人吉良上野介"
 author: soshu
 categories: [ 历史, 宗徧流 ]
-image: assets/images/hyouge-mono-oribe.jpg
+image: assets/images/chushingura-yamazaki-toshinobu-ii.jpg
 tags: [featured]
 ---
 
@@ -33,7 +33,7 @@ tags: [featured]
 
 ![四方釜][yohogama]
 
-[kira yoshinaka]: {{ site.baseurl }}/assets/images/kera-yoshinaka.jpg "吉良上野介義央"
+[kira yoshinaka]: {{ site.baseurl }}/assets/images/kira-yoshinaka.jpg "吉良上野介義央"
 [yamada sohen]: {{ site.baseurl }}/assets/images/yamada-sohen.jpg "山田宗徧"
 [otaka gengo tadao]: {{ site.baseurl }}/assets/images/otaka-gengo-tadao.jpg "大高源吾忠雄"
 [kobayashi heihachiro hisamichi]: {{ site.baseurl }}/assets/images/kobayashi-heihachiro-hisamichi.jpg "小林平八郎央通"
