@@ -4,7 +4,7 @@ title:  "茶人吉良上野介"
 author: soshu
 categories: [ 历史, 宗徧流 ]
 image: assets/images/chushingura-yamazaki-toshinobu-ii.jpg
-tags: [ featured, sticky ]
+tags: [ sticky ]
 ---
 
 吉良上野介義央与山田宗徧同为宗旦门下弟子。宗徧搬到江戸之后，二人颇为交好，常常有茶会往来。
