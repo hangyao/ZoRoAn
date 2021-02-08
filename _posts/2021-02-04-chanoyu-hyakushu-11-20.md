@@ -9,7 +9,7 @@ tags: []
 
 ## 茶之汤百首
 
-原文链接：[The Hundred Poems of Chanoyu, Poems 11-20](https://chanoyu-to-wa.tumblr.com/post/21376657477/the-hundred-poems-of-chanoyu-poems-11-20)
+原文链接：[The Hundred Poems of Chanoyu, Poems 11-20](https://chanoyu-to-wa.tumblr.com/post/21376657477/the-hundred-poems-of-chanoyu-poems-11-20)  
 原作者：Daniel M. Burkus  
 授权中文翻译：Soshu
 

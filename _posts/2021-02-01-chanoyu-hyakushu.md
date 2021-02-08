@@ -9,8 +9,8 @@ tags: []
 
 ## 茶之汤百首
 
-原文链接：[An Introduction to the Hundred Poems of Chanoyu](https://chanoyu-to-wa.tumblr.com/post/21256830327/an-introduction-to-the-hundred-poems-of-chanoyu)
-原作者：Daniel M. Burkus
+原文链接：[An Introduction to the Hundred Poems of Chanoyu](https://chanoyu-to-wa.tumblr.com/post/21256830327/an-introduction-to-the-hundred-poems-of-chanoyu)  
+原作者：Daniel M. Burkus  
 授权中文翻译：Soshu
 
 ----
