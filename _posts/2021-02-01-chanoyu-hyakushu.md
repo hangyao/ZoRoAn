@@ -4,7 +4,7 @@ title:  "茶之汤百首：介绍"
 author: soshu
 categories: [ 利休百首, 茶书 ]
 image: assets/images/ukiyoe-ginko-adachi-shogaku-joreishiki.jpg
-tags: [　]
+tags: []
 ---
 
 ## 茶之汤百首

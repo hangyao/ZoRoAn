@@ -4,13 +4,13 @@ title:  "茶之汤百首：11-20"
 author: soshu
 categories: [ 利休百首, 茶书 ]
 image: assets/images/ukiyoe-kunichika-toyohara-genji-gojuyo-jo-umegae.jpg
-tags: [　]
+tags: []
 ---
 
 ## 茶之汤百首
 
 原文链接：[The Hundred Poems of Chanoyu, Poems 11-20](https://chanoyu-to-wa.tumblr.com/post/21376657477/the-hundred-poems-of-chanoyu-poems-11-20)
-原作者：Daniel M. Burkus
+原作者：Daniel M. Burkus  
 授权中文翻译：Soshu
 
 ----
@@ -19,7 +19,7 @@ tags: [　]
 
 ----
 
-(11)手前には强味ばかりを思うなよ、强きは弱く輕く重かれ 【在一个人的点前中，如果只专注于强力的表现，那么这种“强”可能会（带给客人）虚弱，或缺少尊重，或至少产生压抑的情绪。】
+（11）手前には强味ばかりを思うなよ、强きは弱く輕く重かれ 【在一个人的点前中，如果只专注于强力的表现，那么这种“强”可能会（带给客人）虚弱，或缺少尊重，或至少产生压抑的情绪。】
 
 点茶，最重要的，是要抱以绝对的诚意。如果为了故意制造强力和阳刚的形象——从而造成一种虚张声势的男性气概——以期给客人留下深刻的印象，那么点前会让客人觉得空洞而且徒有其表，或者会营造出一种整肃的气氛，使茶会愉快自然的情绪消散。缺乏真诚和热情的的强硬，就其本质而言，意味着虚弱、强迫，或导致极度的压抑。
 
