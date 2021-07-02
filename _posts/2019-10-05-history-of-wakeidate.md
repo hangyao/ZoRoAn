@@ -38,6 +38,9 @@ tags: [ featured ]
 
 ![Hounsai and Nishimura Ko][hounsai and nishimura ko]
 
+1944年刊登在《アサヒグラフ(Asahi Graph)》画报上的和敬点照片。左下角文字：猛訓練の餘暇に「野立」を嗜む海軍航空隊勇士（大津海軍航空隊にて　松尾英世撮影）
+
+![Wakeidate Nodate on magazine][wakeidate on magazine]
 
 [hakuboan-keiitsubanrei-chawan-1]: {{ site.baseurl }}/assets/images/hakuboan-keiitsubanrei-chawan-1.jpg "白鳯庵（桥本凝胤）作 “慶溢万齢”文字入茶碗"
 [hakuboan-keiitsubanrei-chawan-2]: {{ site.baseurl }}/assets/images/hakuboan-keiitsubanrei-chawan-2.jpg "白鳯庵（桥本凝胤）作 “慶溢万齢”文字入茶碗"
@@ -49,3 +52,4 @@ tags: [ featured ]
 [okuda-mokuhaku-akahada-fuji-chawan-4]: {{ site.baseurl }}/assets/images/okuda-mokuhaku-akahada-fuji-chawan-4.jpg "赤膚焼 奥田木白作 富士山图茶碗"
 [okuda-mokuhaku-akahada-fuji-chawan-5]: {{ site.baseurl }}/assets/images/okuda-mokuhaku-akahada-fuji-chawan-5.jpg "赤膚焼 奥田木白作 富士山图茶碗"
 [hounsai and nishimura ko]: {{ site.baseurl }}/assets/images/hounsai-and-nishimura-ko.jpg "德岛航空队时期（1944年）。右二：千玄室。最右：西村晃"
+[wakeidate on magazine]: {{ site.baseurl }}/assets/images/wakeidate-magazine.jpg "当时杂志上刊登的野点照片"
