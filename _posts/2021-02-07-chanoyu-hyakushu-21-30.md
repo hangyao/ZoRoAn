@@ -3,7 +3,7 @@ layout: post
 title:  "茶之汤百首：21-30"
 author: soshu
 categories: [ 利休百首, 茶书 ]
-image: assets/images/ukiyoe-kunichika-toyohara-genji-gojuyo-jo-umegae.jpg
+image: assets/images/ukiyoe-toshikata-mizuno-azuma-sugata.jpg
 tags: []
 ---
 
