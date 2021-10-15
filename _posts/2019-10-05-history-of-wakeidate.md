@@ -7,7 +7,7 @@ image: assets/images/chabako-wakeidate.jpg
 tags: [ featured ]
 ---
 
-和敬点（わけいだて）是十四代淡々斎考案的茶箱点前。与其他点前不同的地方在于，两只茶碗在点好茶，给客人出茶的时候，不使用古帛纱，也没有基本的诸道具拜见。而且，在第一只碗或第二只碗时收到仕舞请求会有不同的手法上的变化。
+和敬点（わけいだて）是十四代淡々斎考案的茶箱点前。与其他点前不同的地方在于，在点完茶给客人茶碗的时候，这两只茶碗不使用古帛纱，也没有基本的诸道具拜见。而且，在第一只碗或第二只碗时收到仕舞请求会有不同的手法上的变化。
 
 大小两只茶碗重叠在一起放入茶箱，古帛纱二折放入茶碗，枣放在之上。接着放入茶筅筒、茶巾筒、振出，茶杓面向下放在茶碗上，之上是草的帛纱。盖上箱盖，箱盖上重叠放上与箱盖同大小的薄板。两只茶碗的配置与卯之花点前相同。
 
@@ -42,6 +42,24 @@ tags: [ featured ]
 
 ![Wakeidate Nodate on magazine][wakeidate on magazine]
 
+补充些新的材料。
+
+一个是千玄室鹏云斋最近（2021年9月）接受《每日新闻》采访，报道中公布了一张里千家提供的鹏云斋在海军基地点茶的照片，明确指出了亭主就是鹏云斋。但跟上一张照片相比，可以明显看出不是同一时间拍摄的。
+
+![Wakeidate Nodate on Mainichi][wakeidate on mainichi]
+
+另一个是见到了原本的阵中茶箱重茶碗的图像：
+
+![Wakeidate Kasanejawan 1][wakeidate-chawan-1]
+
+![Wakeidate Kasanejawan 2][wakeidate-chawan-2]
+
+盖表箱书：赤肤正柏志野愚陶合作 重茶碗
+
+赤肤正柏，是赤肤焼的陶工松田正柏，所作的是富士绘茶碗。志野愚陶，是志野烧（美浓笠原烧）的陶工水野愚陶，所作的是黄濑户“庆溢万龄”茶碗。
+
+盖里箱书：天武天皇御献茶 阵中茶箱献纳记念 昭和十八岁四月 药师寺白凤庵（花押）
+
 [hakuboan-keiitsubanrei-chawan-1]: {{ site.baseurl }}/assets/images/hakuboan-keiitsubanrei-chawan-1.jpg "白鳯庵（桥本凝胤）作 “慶溢万齢”文字入茶碗"
 [hakuboan-keiitsubanrei-chawan-2]: {{ site.baseurl }}/assets/images/hakuboan-keiitsubanrei-chawan-2.jpg "白鳯庵（桥本凝胤）作 “慶溢万齢”文字入茶碗"
 [hakuboan-keiitsubanrei-chawan-3]: {{ site.baseurl }}/assets/images/hakuboan-keiitsubanrei-chawan-3.jpg "白鳯庵（桥本凝胤）作 “慶溢万齢”文字入茶碗"
@@ -53,3 +71,6 @@ tags: [ featured ]
 [okuda-mokuhaku-akahada-fuji-chawan-5]: {{ site.baseurl }}/assets/images/okuda-mokuhaku-akahada-fuji-chawan-5.jpg "赤膚焼 奥田木白作 富士山图茶碗"
 [hounsai and nishimura ko]: {{ site.baseurl }}/assets/images/hounsai-and-nishimura-ko.jpg "德岛航空队时期（1944年）。右二：千玄室。最右：西村晃"
 [wakeidate on magazine]: {{ site.baseurl }}/assets/images/wakeidate-magazine.jpg "当时杂志上刊登的野点照片"
+[wakeidate on mainichi]: {{ site.baseurl }}/assets/images/wakeidate-hounsai.jpg "里千家提供的的野点照片"
+[wakeidate-chawan-1]: {{ site.baseurl }}/assets/images/wakeidate-chawan-1.jpg "阵中点重茶碗"
+[wakeidate-chawan-2]: {{ site.baseurl }}/assets/images/wakeidate-chawan-2.jpg "阵中点重茶碗"
