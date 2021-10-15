@@ -71,6 +71,6 @@ tags: [ featured ]
 [okuda-mokuhaku-akahada-fuji-chawan-5]: {{ site.baseurl }}/assets/images/okuda-mokuhaku-akahada-fuji-chawan-5.jpg "赤膚焼 奥田木白作 富士山图茶碗"
 [hounsai and nishimura ko]: {{ site.baseurl }}/assets/images/hounsai-and-nishimura-ko.jpg "德岛航空队时期（1944年）。右二：千玄室。最右：西村晃"
 [wakeidate on magazine]: {{ site.baseurl }}/assets/images/wakeidate-magazine.jpg "当时杂志上刊登的野点照片"
-[wakeidate on mainichi]: {{ site.baseurl }}/assets/images/wakeidate-hounsai.jpg "里千家提供的的野点照片"
+[wakeidate on mainichi]: {{ site.baseurl }}/assets/images/wakeidate-honunsai.jpg "里千家提供的的野点照片"
 [wakeidate-chawan-1]: {{ site.baseurl }}/assets/images/wakeidate-chawan-1.jpg "阵中点重茶碗"
 [wakeidate-chawan-2]: {{ site.baseurl }}/assets/images/wakeidate-chawan-2.jpg "阵中点重茶碗"
