@@ -43,103 +43,103 @@ tags: [featured]
 
 
 1. `その道に入らんと思ふ心こそ、我が身ながらの師匠なりけれ`  
-    sono michi ni iran to omou kokoro koso 
+    sono michi ni iran to omou kokoro koso  
     waga mi nagara no shishо̄ narikere  
    （寻道之路的决心，是我自己的老师）
 2. `ならひつゝ見てこそ習へ習はずに、よしあしいふは愚なりけり`  
-    narai-tsutsu mite koso narae narawazu ni 
+    narai-tsutsu mite koso narae narawazu ni  
     yoshiashi iu wa oroka narikeri  
    （在学习时认真观察，轻言善恶是愚蠢的）
 3. `こゝろざし深き人にはいくたびも、あはれみ深く奥ぞ教ふる`  
-    kokorozashi fukaki hito ni wa iku-tabi mo 
+    kokorozashi fukaki hito ni wa iku-tabi mo  
     awaremi fukaku oku zo oshiuru  
    （急切想要学习的人，总能遇到愿意教他的人）
 4. `はぢをすて人に物とひ習ふべし、是ぞ上手の基なりける`  
-    haji o sute hito ni mono toi naraubeshi 
+    haji o sute hito ni mono toi naraubeshi  
     kore zo jо̄zu no motoi narikeru  
    （不怕羞耻的学习，是成功的基本）
 5. `上手にはすきと器用と功積むと、この三つそろふ人ぞ能くしる`  
-    jо̄zu ni wa suki to kiyо̄ to kо̄-tsumu to 
+    jо̄zu ni wa suki to kiyо̄ to kо̄-tsumu to  
     kono mittsu sorou hito zo yoku shiru  
    （兴趣、灵巧与努力，有此三条才能成功）
 6. `点前には弱みをすてゝただ強く、されど風俗いやしきを去れ`  
-    temae ni wa yowami o sutete tada tsuyoku 
+    temae ni wa yowami o sutete tada tsuyoku  
     saredo fūzoku iyashiki o sare  
    （点前不能太柔弱，要去除风俗感）
 7. `点前には強みばかりを思ふなよ、強きは弱く軽く重かれ`  
-    temae ni wa tsuyomi bakari o omounayo 
+    temae ni wa tsuyomi bakari o omounayo  
     tsuyoki wa yowaku karuku omokare  
    （点前不能太强硬，强处要示弱，举轻须若重）
 8. `何にても道具扱ふたびごとに、取る手は軽く置く手重かれ`  
-    nani nite mo dо̄gu atsukau tabi-goto ni 
+    nani nite mo dо̄gu atsukau tabi-goto ni  
     toru-te wa karuku oku-te omokukare  
    （无论任何道具，取时要若轻，置时要若重）
 9. `何にても置き付けかへる手離れは、恋しき人にわかるゝと知れ`  
-    nani nite mo okitsuke kaeru te-banare wa 
+    nani nite mo okitsuke kaeru te-banare wa  
     koishiki hito ni wakaruru to shire  
    （放置道具时，手离开时要有恋恋不舍的感觉）
 10. `点前こそ薄茶にあれと聞くものを、麁相になせし人はあやまり`  
-    temae koso usucha ni are to kiku mono o 
+    temae koso usucha ni are to kiku mono o  
     sosо̄ ni naseshi hito wa ayamari  
    （薄茶点前是基础，漫不经心是错误的）
 11. `濃茶には点前をすてゝ一筋に、服の加減と息をもらすな`  
-    koicha ni wa temae o sutete hitosuji ni 
+    koicha ni wa temae o sutete hitosuji ni  
     fuku no kagen to iki o morasuna  
    （浓茶点前屏息专注，只是为了点出好茶）
 12. `濃茶には湯加減あつく服は尚ほ、泡なきやうにかたまりもなく`  
-    koicha ni wa yukagen atsuku fuku wa nao 
+    koicha ni wa yukagen atsuku fuku wa nao  
     awa naki yо̄ ni katamari mo naku  
    （浓茶要趁热，不能有泡和颗粒）
 13. `とにかくに服の加減を覚ゆるは、濃茶たびたび点てゝ能く知れ`  
-    toni kakuni fuku no kagen o oboyuru wa 
+    toni kakuni fuku no kagen o oboyuru wa  
     koicha tabitabi tatete yoku shire  
    （感受体会浓茶的味道，在点前练习中学习茶水的比例）
 14. `よそにては茶を汲みて後茶杓にて、茶碗のふちを心して打て`  
-    yoso nite wa cha o kumite nochi chashaku nite 
+    yoso nite wa cha o kumite nochi chashaku nite  
     chawan no fuchi o kokoroshite ute  
    （舀完茶的茶杓，需要小心敲击茶碗）
 15. `中継は胴を横手にかきて取れ、茶杓は直におくものぞかし`  
-    nakatsugi wa dо̄ o yokote ni kakite tore 
+    nakatsugi wa dо̄ o yokote ni kakite tore  
     chashaku wa jiki ni oku mono zo kashi  
    （横持中次茶器的器身，茶杓放下时平直）
 16. `棗には蓋半月に手をかけて、茶杓を円くおくとこそしれ`  
-    natsume ni wa futa hangetsu ni te o kakete 
+    natsume ni wa futa hangetsu ni te o kakete  
     chashaku o maruku oku to koso shire  
    （用半月形的手势持棗茶器，茶杓放下时有弧线）
 17. `薄茶入蒔絵彫もの文字あらば、順逆覚え扱ふと知れ`  
-    usuchaire makie horimono moji araba 
+    usuchaire makie horimono moji araba  
     jun-gyaku oboe atsukau to shire  
    （薄茶器有莳绘、雕刻、文字时，上下需要对齐）
 18. `肩衝は中次とまた同じこと、底に指をばかけぬとぞ知れ`  
-    katatsuki wa nakatsugi to mata onaji koto 
+    katatsuki wa nakatsugi to mata onaji koto  
     soko ni yubi oba kakenu to zo shire  
    （肩冲茶入与中次茶器相同，手指不要托底）
 19. `文琳や茄子丸壺大海は、底に指をばかけてこそ持て`  
-    bunrin ya nasu marutsubo daikai wa 
+    bunrin ya nasu marutsubo daikai wa  
     soko ni yubi oba kakete koso mote  
    （文琳、茄子、丸壶、大海茶入，手指要托住底部）
 20. `大海をあしらふ時は大指を、肩にかけるぞ習ひなりける`  
-    daikai o ashirau toki wa о̄yubi o 
+    daikai o ashirau toki wa о̄yubi o  
     kata ni kakeru zo narai narikeru  
    （取大海茶入，用拇指拿取肩部）
 21. `口ひろき茶入の茶をば汲むといふ、狭き口をばすくふとぞいふ`  
-    kuchi hiroki chaire no cha oba kumu to iu 
+    kuchi hiroki chaire no cha oba kumu to iu  
     semaki kuchi oba sukuu to zo iu  
    （广口的茶入，要“汲”茶，窄口的茶入，要“掬”茶）
 22. `筒茶碗深き底よりふき上り、重ねて内へ手をやらぬもの`  
-    tsutsu-jawan fukaki soko yori fukiagari 
+    tsutsu-jawan fukaki soko yori fukiagari  
     kasanete uchi e te o yaranu mono  
    （筒茶碗底深，要先用茶巾拭底，再拭口沿）
 23. `乾きたる茶巾使はゞ湯はすこし、こぼし残してあしらふぞよき`  
-    kawakitaru chakin tsukawaba yu wa sukoshi 
+    kawakitaru chakin tsukawaba yu wa sukoshi  
     koboshi nokoshite ashirau zo yoki  
    （如果茶巾用起来太干了，之前茶筅通时碗底少留些热水）
 24. `炭置くはたとへ習ひにそむくとも、湯のよくたぎる炭は炭なり`  
-    sumi oku wa tatoe narai ni somuku tomo 
+    sumi oku wa tatoe narai ni somuku tomo  
     yu no yoku tagiru sumi wa sumi nari  
    （学习中对炭的放置虽有诸多规定，但根本是要把汤煮沸）
 25. `客になり炭つぐならばそのたびに、薫物などはくべぬことなり`  
-    kyaku ni nari sumi tsugu naraba sono tabi ni 
+    kyaku ni nari sumi tsugu naraba sono tabi ni  
     takimono nado wa kubenu koto nari  
    （如果作为客人放置了炭，那么一定要亭主来放置薰物）
 26. 炭つがば五徳はさむな十文字 縁をきらすな釣合いをみよ  
