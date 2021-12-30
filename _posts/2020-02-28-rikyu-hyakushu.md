@@ -188,7 +188,7 @@ tags: [featured]
 34. `絵の物を掛ける時にはたくぼくを、印ある方へ引きおくもよし`  
     e-no-mono o kakeru toki ni wa takuboku o  
     in aru hо̄ e hikioku mo yoshi  
-   （悬挂绘物挂轴时，卷绪放在印款方向）
+   （悬挂绘物挂轴时，卷绪也可放在印款方向）
 35. `絵掛けものひだり右向きむかふむき、使ふも床の勝手にぞよる`  
     e-kakemono hidari-migi-muki mukо̄-muki  
     tsukau mo toko no katte ni zo yoru  
@@ -248,11 +248,13 @@ tags: [featured]
 49. `喚鐘は大と小とに中々に、大と五つの数をうつなり`  
     kanshо̄ wa dai to shо̄ to ni chū chū ni  
     dai to itsutsu no kazu o utsunari  
-   （使用唤钟时，敲击大小中中大五回）
+   （使用唤钟时，敲击大小中中大五回）  
+   当贵人客的场合，只打前四下，不打第五下，亭主亲自出迎客人。这称为“打残”。铜锣的场合，五客或五客以上，打大小大小中中大七下。四客或四客以下，跟唤钟一样打五下。铜锣也有最后一下“打残”，亭主亲自出迎的场合。
 50. `茶入より茶掬ふには心得て、初中後すくへそれが秘事也`  
     chaire yori cha sukuu ni wa kokoroete  
     sho-chū-go sukue sore ga hiji nari  
-   （从茶入中掬茶时，谨记初、中、后三勺的心得：序、破、急）
+   （从茶入中掬茶时，谨记初、中、后三勺的心得：序、破、急）  
+   第一勺，茶粉的量较少。第二勺，茶粉的量要比第一勺略多。第三勺，茶粉的量最多。如果三次的量一样多，就比较无趣。这跟能剧中序破急的教法一样。
 51. `湯を汲むは柄杓に心つきの輪の、そこねぬやうに覚悟してくむ`  
     yu o kumu wa hishaku ni kokoro tsuki-no-wa no  
     sokonenu yо̄ ni kakugo shite kumu  
@@ -260,7 +262,7 @@ tags: [featured]
 52. `柄杓にて湯をくむ時の習には、三つの心得あるものぞかし`  
     hishaku nite yu o kumu toki no narai ni wa  
     mittsu no kokoroe aru mono zo kashi  
-   （谨记柄勺汲汤的三个心得：1.不要汲太满，合的九分目就好；2.汤从底部汲，水从中部汲；3.不要油柄勺：为了让水滴下而上下振动柄勺）
+   （谨记柄勺汲汤的三个心得：1.不要汲太满，合的九分目就好；2.汤从底部汲，水从中部汲；3.不要油柄勺：在釜、水指、茶碗上柄杓的位置过高）
 53. `湯を汲みて茶碗に入るゝ其時の、柄杓のねぢは肱よりぞする`  
     yu o kumite chawan ni iruru sono toki no  
     hishaku no neji wa hiji yori zo suru  
@@ -280,7 +282,8 @@ tags: [featured]
 57. `名物の茶碗出でたる茶の湯には、少し心得かはるとぞ知れ`  
     meibutsu no chawan idetaru chanoyu ni wa  
     sukoshi kokoroe kawaru to zo shire  
-   （使用名物或由绪的茶碗时，与平常不同，应当使用特殊的手法）
+   （使用名物或由绪的茶碗时，与平常不同，应当使用特殊的手法）  
+   在台天目、茶碗荘点前中，茶碗要放在古帛纱上，不能一只手而是要用两只手取茶碗。浓茶的场合，吃完茶后，不能用纸擦，而要用湿的茶巾。拜见时，要双手取茶碗，在较低的位置拜见。
 58. `暁は数寄屋のうちも行燈に、夜会などには短檠を置け`  
     akatsuki wa sukiya no uchi mo andon ni  
     yakai nado ni wa tankei o oke  
@@ -328,11 +331,13 @@ tags: [featured]
 69. `うす板は床かまちより十七目、または十八十九目におけ`  
     usuita wa toko kamachi yori jūnana-me  
     mata wa jūhachi-jūku-me ni oke  
-   （薄板应放在距床框17至19目的位置）
+   （薄板应放在距床框17至19目的位置）  
+   古铜、青磁、染付等是真之花入，用矢筈板。濑户等上釉的花入用蛤板。伊贺、信乐、备前等无釉的花入用木地的蛤板。丸香台适合乐烧或竹花入。
 70. `うす板は床の大小また花や、花生によりかはるしなしな`  
     usuita wa toko no dai-shо̄ mata hana ya  
     hanaike ni yori kawaru shinajina  
-   （薄板的样式取决于床、花和花入的形式）
+   （薄板的样式取决于床、花和花入的形式）  
+   笼花入以外的所有花入下面都要铺薄板。但是，板床的场合，不能用薄板。花入的位置由薄板的位置确定。
 71. `花入の折釘うつは地敷居より、三尺三寸五分余もあり`  
     hanaire no orekugi utsu wa jishikii yori  
     san-jaku san-zun go-bu amari mo ari  
@@ -344,7 +349,8 @@ tags: [featured]
 73. `竹釘は皮目を上にうつぞかし、皮目を下になすこともあり`  
     take-kugi wa kawa-me o ue ni utsu zo kashi  
     kawa-me o shita ni nasu koto mo ari  
-   （竹钉原则上皮目朝上，但也有皮目朝下的情况）
+   （竹钉原则上皮目朝上，但也有皮目朝下的情况）  
+   利休、古田织部等的教法是皮目朝上。小堀远州、金森宗和等的教法是皮目朝下。
 74. `三つ釘は中の釘より両脇と、二つわりなるまんなかに打て`  
     mitsu-kugi wa naka no kugi yori ryо̄waki to  
     futatsu-wari naru mannaka ni ute  
@@ -380,7 +386,8 @@ tags: [featured]
 82. `右の手を扱ふ時はわが心、左の方にあるとしるべし`  
     migi no te o atsukau toki wa waga kokoro  
     hidari no hо̄ ni aru to shirubeshi  
-   （右手取用道具时，左手往往被忽视，因此要留心并集中精神）
+   （右手取用道具时，左手往往被忽视，因此要留心并集中精神）  
+   类似宫本武藏的二刀流，石州流等茶道流派中也有“左右双刀之构”的说法。在剑道中，右手进攻时，左手处于防御的位置，左手进攻时，之前进攻的右手马上变换成防御的姿势。在茶道中，右手茶杓，左手持茶入时，持茶杓的右手马上变成舀茶粉的姿势。这就是双刀的构形。因此，点前中没有一分放松警惕。
 83. `一点前点るうちには善悪と、有無の心のわかちをも知る`  
     hito temae tateru uchi ni wa zen-aku to  
     u-mu no kokoro no wakachi o mo shiru  
@@ -388,7 +395,8 @@ tags: [featured]
 84. `なまるとは手つゞき早く又おそく、ところどころのそろはぬをいふ`  
     namaru to wa te-tsuzuki hayaku mata osoku  
     tokoro-dokoro no sorowanu o iu  
-   （不要做没有快慢节奏的点前，那叫做“钝点/なまる”）
+   （不要做没有快慢节奏的点前，那叫做“钝点/なまる”）  
+   这是指点前的步骤时快时慢。遇到熟记的步骤就快速平滑，遇到不确定的步骤就一边想一边放慢速度。
 85. `点前には重きを軽く軽きをば、重く扱ふ味ひをしれ`  
     temae ni wa omoki o karuku karuki oba  
     omoku atsukau ajiwai o shire  
@@ -400,7 +408,8 @@ tags: [featured]
 87. `板床に葉茶壺茶入品々を、かざらでかざる法もありけり`  
     ita-doko ni hacha-tsubo chaire shinajina o  
     kazarade kazaru hо̄ mo arikeri  
-   （板床的场合，原则上不装饰茶壶、茶入等等，但也可以通过铺垫奉书纸来装饰）
+   （板床的场合，原则上不装饰茶壶、茶入等等，但也可以通过铺垫奉书纸来装饰）  
+   板床上通常不应该装饰名物茶入或茶壶。但如果需要的话，可以在道具下面铺上奉书纸。
 88. `床の上に籠花入を置く時は、薄板などはしかぬものなり`  
     toko no ue ni kago-hanaire o oku toki wa  
     usuita nado wa shikanu mono nari  
