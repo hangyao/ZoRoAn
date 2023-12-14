@@ -3,7 +3,7 @@ layout: post
 title:  "手前与点前的区别"
 author: soto
 categories: [ 一问一答 ]
-image: assets/images/tomoehanda.jpg
+image: assets/images/seiji-tenmoku-chawan-and-karamono-dai.jpg
 tags: []
 ---
 

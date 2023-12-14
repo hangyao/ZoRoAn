@@ -3,7 +3,7 @@ layout: post
 title:  "贵人点中谁端出果子"
 author: soto
 categories: [ 一问一答 ]
-image: kinindate-takatsuki.jpg
+image: assets/images/kinindate-takatsuki.jpg
 tags: []
 ---
 
