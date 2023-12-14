@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "茶之汤百首：41-50"
-author: soshu
+author: soto
 categories: [ 利休百首, 茶书 ]
 image: assets/images/ukiyoe-toshikata-mizuno-hiroma-usucha.jpg
 tags: []
@@ -11,7 +11,7 @@ tags: []
 
 原文链接：[The Hundred Poems of Chanoyu, Poems 41-50](https://chanoyu-to-wa.tumblr.com/post/21630644998/the-hundred-poems-of-chanoyu-poems-41-50)  
 原作者：Daniel M. Burkus  
-授权中文翻译：Soshu
+授权中文翻译：Sōto
 
 ----
 
@@ -33,7 +33,7 @@ tags: []
 
 炉里的火应该在黎明时生起，在中午的时候补充。在黄昏时，清理炉并添加一组新的炭（此时，釜里的水也要全部更换）。炭火一直烧到大约晚上10:00点左右，此时炭火被移除，炉被清理并关闭一夜。利休时代，炉在阴历十月初（一般是11月初到11月中）被打开，在阴历二月底或三月初（4月的第一个星期左右）被关闭。下表显示了京都大阪地区这几个月第一天的黎明和黄昏时间：
 
-| 日期（阳历） | 日出 | 日落 | 
+| 日期（阳历） | 日出 | 日落 |
 |:----------:|:---:|:----:|
 | 11月1日 | 早上 6:18 | 下午 5:03 |
 | 12月1日 | 早上 6:47 | 下午 4:45 |

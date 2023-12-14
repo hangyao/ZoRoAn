@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "茶之汤百首：11-20"
-author: soshu
+author: soto
 categories: [ 利休百首, 茶书 ]
 image: assets/images/ukiyoe-kunichika-toyohara-genji-gojuyo-jo-umegae.jpg
 tags: []
@@ -11,7 +11,7 @@ tags: []
 
 原文链接：[The Hundred Poems of Chanoyu, Poems 11-20](https://chanoyu-to-wa.tumblr.com/post/21376657477/the-hundred-poems-of-chanoyu-poems-11-20)  
 原作者：Daniel M. Burkus  
-授权中文翻译：Soshu
+授权中文翻译：Sōto
 
 ----
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "茶之汤百首：介绍"
-author: soshu
+author: soto
 categories: [ 利休百首, 茶书 ]
 image: assets/images/ukiyoe-ginko-adachi-shogaku-joreishiki.jpg
 tags: []
@@ -11,7 +11,7 @@ tags: []
 
 原文链接：[An Introduction to the Hundred Poems of Chanoyu](https://chanoyu-to-wa.tumblr.com/post/21256830327/an-introduction-to-the-hundred-poems-of-chanoyu)  
 原作者：Daniel M. Burkus  
-授权中文翻译：Soshu
+授权中文翻译：Sōto
 
 ----
 

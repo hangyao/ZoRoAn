@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "茶之汤百首：21-30"
-author: soshu
+author: soto
 categories: [ 利休百首, 茶书 ]
 image: assets/images/ukiyoe-toshikata-mizuno-azuma-sugata.jpg
 tags: []
@@ -11,7 +11,7 @@ tags: []
 
 原文链接：[The Hundred Poems of Chanoyu, Poems 21-30](https://chanoyu-to-wa.tumblr.com/post/21490705265/the-hundred-poems-of-chanoyu-poems-21-30)  
 原作者：Daniel M. Burkus  
-授权中文翻译：Soshu
+授权中文翻译：Sōto
 
 ----
 
