@@ -17,13 +17,13 @@ tags: [ featured ]
 6. [为什么要在三月进行钓釜呢？]({{ site.baseurl }}/iemoto-ichimonittou-tsurigama)
 7. [请告诉我在点茶盘上可以完成的点前范围]({{ site.baseurl }}/iemoto-ichimonittou-tenchaban)
 8. [在大寄茶会等场合，如果一开始茶入和水指已经摆设好，应该从釜、茶入、还是水指开始拜见呢？]({{ site.baseurl }}/iemoto-ichimonittou-chakai-haiken)
-9. [请问，茶通箱点前中，一开始箱中茶入背靠背放置的原因？]({{ site.baseurl }}/iemoto-ichimonittou-satsubako-chaire)
-10. 後炭所望で、巴半田の灰に巴に描くのは何故ですか。
-11. 初炭手前、後炭手前には「手前」の文字が使われますが、「点前」と区別しているのは、お茶を点てないからでしょうか。
-12. 御園棚の場合、お点前茶碗は古帛紗に乗せてお出ししますか。また、御園棚の点前で、茶杓を拭いた帛紗は右に置きますか。釜の蓋を開けた帛紗は右・左どちらに置きますか。
-13. 貴人点で、高杯にお菓子を盛る場合、亭主・半東いずれが出すのでしょうか。
-14. お茶席用の大きな傘は外（庭や公園など）でのみ立てられるものですか。屋内で使用してはいけないのでしょうか。
-15. [风炉的初炭手前时，为什么要把炉灰切出月形？]({{ site.baseurl }}/iemoto-ichimonittou-furo-shozumi-tsukigata)
+9. [在茶通箱的点前中，最初将茶入背靠背地放在箱子中的意义是什么？]({{ site.baseurl }}/iemoto-ichimonittou-satsubako-chaire)
+10. [在后炭所望时，为什么要在巴半田的灰上绘制一个巴呢？]({{ site.baseurl }}/iemoto-ichimonittou-tomoehanda)
+11. [在初炭手前和後炭手前中使用了“手前”一词，这是否是为了与“点前”进行区分，因为它并不是点茶呢？]({{ site.baseurl }}/iemoto-ichimonittou-temae-no-kanji)
+12. [在御园棚的情况下，点茶时，点前茶碗会放在古帛纱上吗？另外，在御园棚的点前中，拭过茶杓的帛纱会放在右侧吗？打开釜盖的帛纱会放在右侧还是左侧呢？]({{ site.baseurl }}/iemoto-ichimonittou-misonodana-kobukusa)
+13. [在贵人点的情况下，如果要在高杯中盛放果子，亭主和半东中谁来端出呢？]({{ site.baseurl }}/iemoto-ichimonittou-kinindate-ogashi)
+14. [用于茶席的大型伞通常只会在户外（如庭院或公园）使用吗？在室内使用是不被允许的吗？]({{ site.baseurl }}/iemoto-ichimonittou-kasa)
+15. [风炉初炭手前时，用灰匙在灰上切出月形的原因是什么？]({{ site.baseurl }}/iemoto-ichimonittou-furo-shozumi-tsukigata)
 16. 貴人点薄茶で半東が貴人にお菓子をお出しする位置はどこでしょうか。また、貴人茶碗はどこにお出ししますか。お教え下さい。
 17. 花月の役と席順を決める時、水屋で折据を回しますが、折据はどちら回しにしますか。また、その時、扇子を置く位置は膝前ですか、それとも膝横でしょうか。
 18. 和親棚の点前について。大中小の棚の置き方に決まりはありますか。また、点前は御園棚、春秋棚に準ずればよいのでしょうか。
