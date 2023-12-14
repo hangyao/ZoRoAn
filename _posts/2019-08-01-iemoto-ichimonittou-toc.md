@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "家元一问一答 目录"
-author: sochiku
+author: soto
 categories: [ 点前, 裏千家, 一问一答 ]
 image: assets/images/learn-koi-cha.jpg
 tags: [ featured ]
@@ -14,7 +14,7 @@ tags: [ featured ]
 3. [在薄茶点前时，一开始会在茶道口进行问候（あいさつ），而在浓茶点前的过程中，主客会进行总礼（そうれい）。请您解释一下这个意义]({{ site.baseurl }}/iemoto-ichimonittou-usucha-koicha-aisatsu-sourei)
 4. [摆设棚物上时，枣是用一手摆放的，盖置却必须在处理后再摆放，这是有什么原因呢？]({{ site.baseurl }}/iemoto-ichimonittou-tana-kazari-futaoki)
 5. [在贵人点拜见道具时，为什么在浓茶中要将茶杓放在仕覆上，而在薄茶中要将茶杓放在帛纱上呢？]({{ site.baseurl }}/iemoto-ichimonittou-kinindate-haiken-chashaku)
-6. ３月に釣釜をするのは何故ですか。
+6. [为什么要在三月进行钓釜呢？]({{ site.baseurl }}/iemoto-ichimonittou-tsurigama)
 7. 点茶盤でできるお点前の範囲をお教え下さい。
 8. 大寄せの茶会などで、最初から茶入、水指が荘ってある場合、釜、茶入、水指いずれから拝見すべきでしょうか。
 9. [请问，茶通箱点前中，一开始箱中茶入背靠背放置的原因？]({{ site.baseurl }}/iemoto-ichimonittou-satsubako-chaire)

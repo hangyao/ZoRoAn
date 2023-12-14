@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "帛纱的四方捌的含义"
-author: sochiku
+author: soto
 categories: [ 一问一答 ]
 image: assets/images/fukusa-folding.jpg
 tags: []

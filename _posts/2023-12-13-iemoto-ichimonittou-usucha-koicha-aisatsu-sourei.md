@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "薄茶点前的问候与浓茶点前的总礼"
-author: sochiku
+author: soto
 categories: [ 一问一答 ]
 image: assets/images/haiken-tokonoma.jpg
 tags: []
@@ -12,8 +12,6 @@ tags: []
 第三问
 
 > 在薄茶点前时，一开始会在茶道口进行问候（あいさつ），而在浓茶点前的过程中，主客会进行总礼（そうれい）。请您解释一下这个意义
-
-这是由玄々斎统一修订的。
 
 这是由玄玄斋进行的一项改革。
 

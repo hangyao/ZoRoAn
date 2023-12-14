@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "盖置摆放在棚物上须换手的原因"
-author: sochiku
+author: soto
 categories: [ 一问一答 ]
 image: assets/images/niijima-yae-temae.jpg
 tags: []
