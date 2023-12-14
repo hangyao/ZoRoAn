@@ -15,8 +15,8 @@ tags: [ featured ]
 4. [摆设棚物上时，枣是用一手摆放的，盖置却必须在处理后再摆放，这是有什么原因呢？]({{ site.baseurl }}/iemoto-ichimonittou-tana-kazari-futaoki)
 5. [在贵人点拜见道具时，为什么在浓茶中要将茶杓放在仕覆上，而在薄茶中要将茶杓放在帛纱上呢？]({{ site.baseurl }}/iemoto-ichimonittou-kinindate-haiken-chashaku)
 6. [为什么要在三月进行钓釜呢？]({{ site.baseurl }}/iemoto-ichimonittou-tsurigama)
-7. 点茶盤でできるお点前の範囲をお教え下さい。
-8. 大寄せの茶会などで、最初から茶入、水指が荘ってある場合、釜、茶入、水指いずれから拝見すべきでしょうか。
+7. [请告诉我在点茶盘上可以完成的点前范围]({{ site.baseurl }}/iemoto-ichimonittou-tenchaban)
+8. [在大寄茶会等场合，如果一开始茶入和水指已经摆设好，应该从釜、茶入、还是水指开始拜见呢？]({{ site.baseurl }}/iemoto-ichimonittou-chakai-haiken)
 9. [请问，茶通箱点前中，一开始箱中茶入背靠背放置的原因？]({{ site.baseurl }}/iemoto-ichimonittou-satsubako-chaire)
 10. 後炭所望で、巴半田の灰に巴に描くのは何故ですか。
 11. 初炭手前、後炭手前には「手前」の文字が使われますが、「点前」と区別しているのは、お茶を点てないからでしょうか。
