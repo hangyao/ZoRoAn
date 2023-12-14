@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "三月钓釜"
+title:  "三月用钓釜的原因"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/rikyu-hanging-kama.jpg

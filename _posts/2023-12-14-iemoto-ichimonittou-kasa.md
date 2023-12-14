@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "茶席的伞"
+title:  "茶席的伞可用在室内"
 author: soto
 categories: [ 一问一答 ]
 image: queen-bee-nodate-kasa.jpg
