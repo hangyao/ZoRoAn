@@ -1,14 +1,14 @@
 # Site
-name: '蔵鷺庵'
-title: 'ZoRoAn | 蔵鷺庵'
+name: '含水庵'
+title: 'Gansui-an | 含水庵'
 tagline: 'Everything about Japanese Tea Ceremony 关于日本茶道的一切知识'
-SEOTitle: 'ZoRoAn | 蔵鷺庵: Everything about Japanese Tea Ceremony'
-description: 'ZoRoAn (蔵鷺庵) is everything about Japanese Tea Ceremony. It is also known as the Way of Tea, Chanoyu, Cha-No-Yu, Chado, or Sado. Our Chado school is Urasenke. It includes knowledge of Temae, Dogu and Zen. 蔵鷺庵是关于日本茶道的博客。也被称为数寄道、茶の湯。我们的茶道流派是裏千家。这里有关于点前、茶道具、禅茶的知识。'
-keyword: 'ZoRoAn, 蔵鷺庵, Japanese Tea Ceremony, Way of Tea, Chanoyu, Cha-No-Yu, Chado, Sado, Temae, Urasenke, Tea Ceremony'
+SEOTitle: 'Gansui-an | 含水庵: Everything about Japanese Tea Ceremony'
+description: 'Gansui-an (含水庵) is everything about Japanese Tea Ceremony. It is also known as the Way of Tea, Chanoyu, Cha-No-Yu, Chado, or Sado. Our Chado school is Urasenke. It includes knowledge of Temae, Dogu and Zen. 蔵鷺庵是关于日本茶道的博客。也被称为数寄道、茶の湯。我们的茶道流派是裏千家。这里有关于点前、茶道具、禅茶的知识。'
+keyword: 'Gansui-an, 含水庵, Japanese Tea Ceremony, Way of Tea, Chanoyu, Cha-No-Yu, Chado, Sado, Temae, Urasenke, Tea Ceremony'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/ZoRoAn'
-disqus: 'zoroan'
+baseurl: '/gansui-an'
+disqus: 'gansui-an'
 email: 'mpzrlogn'
 mailchimp-list: 'https://gmail.us19.list-manage.com/subscribe/post?u=9a24d35bae405fde3ea44379f&amp;id=0e5d7e628a'
 google_analytics: 'UA-159401266-1'
@@ -26,19 +26,11 @@ plugins:
   - jekyll-analytics
 
 authors:
-    soshu:
-      name:           Soshu
+    soto:
+      name:           Soto
       site:
       avatar:         /assets/images/avatar1.png
-      bio:            "Hi, I am Soshu 宗舟, the author of ZoRoAn 蔵鷺庵, the blog you're currently viewing. I hope you like it! Ceramics, literature, and history of Chanoyu are my interested tpics."
-      # email:
-      # twitter:
-
-    sochiku:
-      name:           Sochiku
-      site:
-      avatar:         /assets/images/avatar2.png
-      bio:            "Hi, I am Sochiku 宗竹. I'm a practitioner of Japanese tea ceremony and love cooking and making Okashi (tea sweets)!"
+      bio:            "Hi, I am Soto 宗渡, the author of Gansui-an 含水庵, the blog you're currently viewing. I hope you like it! Ceramics, literature, and the history of Chanoyu are my interested topics."
       # email:
       # twitter:
 
@@ -51,7 +43,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: soshu
+      author: soto
       avatar: /assets/images/avatar1.png
 
   # all pages
@@ -59,7 +51,7 @@ defaults:
       path: "_pages"
     values:
       layout: page
-      author: soshu
+      author: soto
       avatar: /assets/images/avatar1.png
 
 # Syntax
