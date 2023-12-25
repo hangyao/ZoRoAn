@@ -9,7 +9,7 @@ tags: []
 
 [家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc)
 
-第二十四问
+第廿四问
 
 > 在室内采用玄玄斋创案的立礼式，创造出野点的风情，举办茶会是否可行呢？
 

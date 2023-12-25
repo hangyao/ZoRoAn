@@ -9,7 +9,7 @@ tags: []
 
 [家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc)
 
-第二十一问
+第廿一问
 
 > 穿着西装进入茶席时，是否应该换成白色袜子是有规矩的吗？
 

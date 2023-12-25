@@ -34,10 +34,10 @@ tags: [ featured ]
 23. [如果在贵人清次花月的过程中，到最后贵人一次都没有抽到“月”，那么如何仕舞（结束）呢？]({{ site.baseurl }}/iemoto-ichimonittou-kininkiyotsugu-kagetsu-shimai)
 24. [在室内采用玄玄斋创案的立礼式，创造出野点的风情，举办茶会是否可行呢？]({{ site.baseurl }}/iemoto-ichimonittou-ryureishiki-for-nodate)
 25. [在中置的情况下进行荘物，是否可以呢？]({{ site.baseurl }}/iemoto-ichimonittou-nakaoki-kazarimono)
-26. 炉の茶通箱付花月の拝見物を出す時、四つ出しと習いましたが、どのような出し方でしょうか。また、風炉も同様でしょうか。
-27. 続き薄茶はどういう場合に行われるのでしょうか。
-28.	葉蓋の点前に用いる水指は末広籠花入の受け筒が約束でしょうか。また、梶の葉以外の葉で何が使えるでしょうか。
-29.	葉蓋や洗い茶巾の点前で客を迎える時、何か心がけることがありますか。
+26. [我听说炉的茶通箱付花月送出拜见道具时，要使用”四つ出し“，请问是什么样的方式呢？另外，风炉的方式是否也相同呢？]({{ site.baseurl }}/iemoto-ichimonittou-satsubakotsuke-kagetsu-haiken)
+27. [续薄茶是在什么情况下进行的呢？]({{ site.baseurl }}/iemoto-ichimonittou-tsuzukiusucha)
+28.	[用于叶盖点前的水指是否规定使用末广笼花入的受筒？此外，除了梶树叶之外，还可以使用哪些叶子？]({{ site.baseurl }}/iemoto-ichimonittou-habuta-mizusashi)
+29.	[在叶盖点前或洗茶巾点前迎接客人时，有什么需要注意的地方吗？]({{ site.baseurl }}/iemoto-ichimonittou-habuta-araijakin)
 30.	切掛風炉にて初炭所望をしてもよろしいでしょうか。所望する折、亭主は炭斗を持ち出し定座に置いて、坐る位置は畳の中央でしょうか。それとも畳の中央より客付寄り右側で置いてから風炉正面に寄りますか。また灰器を用いていませんが、帛紗はやはり畳敷合せ角に置きますでしょうか
 31.	名水点についてお尋ねします。茶入、茶杓を清めた後、帛紗はどこに置きますか。建水の後ろで宜しいでしょうか。また、名水の由来のお尋ねにお答えする場所は、居前、客付のどちらでしょうか。
 32.	名水をいただく客の所作について、ご教授下さい。

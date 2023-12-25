@@ -9,7 +9,7 @@ tags: []
 
 [家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc)
 
-第二十二问
+第廿二问
 
 > 请告诉我茶筅通的含义
 
