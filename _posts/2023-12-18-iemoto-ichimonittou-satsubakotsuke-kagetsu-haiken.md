@@ -3,7 +3,7 @@ layout: post
 title:  "炉的茶通箱付花月拜见物的放置方法"
 author: soto
 categories: [ 一问一答 ]
-image: assets/images/satsubako.jpeg
+image: assets/images/satsubako.jpg
 tags: []
 ---
 
