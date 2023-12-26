@@ -7,7 +7,7 @@ image: assets/images/c_200120_chaji_03.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc)
+[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
 
 第八问
 

@@ -7,7 +7,7 @@ image: assets/images/rikyu-hanging-kama.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc)
+[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
 
 第六问
 

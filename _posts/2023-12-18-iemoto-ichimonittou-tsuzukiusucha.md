@@ -7,7 +7,7 @@ image: assets/images/nobunaga-teishu.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc)
+[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
 
 第廿七问
 
