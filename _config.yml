@@ -14,7 +14,7 @@ mailchimp-list: 'https://gmail.us19.list-manage.com/subscribe/post?u=9a24d35bae4
 google_analytics: 'UA-159401266-1'
 
 include: ["_pages"]
-permalink: /:title/
+permalink: /:title.html
 
 # Plugins
 whitelist: [jekyll-analytics]
@@ -24,6 +24,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-analytics
+  - jekyll-google_search_console_verification_file
 
 authors:
     soto:
@@ -66,6 +67,9 @@ jekyll_analytics:
   GoogleAnalytics:
     id: UA-159401266-1
     anonymizeIp: false
+
+google_search_console:
+  verification_file_code: 039e1bc1dfca0f0
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

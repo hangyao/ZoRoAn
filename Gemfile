@@ -18,3 +18,5 @@ group :jekyll_plugins do
     gem 'jekyll-seo-tag'
     gem 'jekyll-analytics'
 end
+
+gem "jekyll-google_search_console_verification_file", "~> 1.1", :group => :jekyll_plugins
