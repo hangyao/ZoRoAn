@@ -7,7 +7,7 @@ description: 'Gansui-an (含水庵) is everything about Japanese Tea Ceremony. I
 keyword: 'Gansui-an, 含水庵, Japanese Tea Ceremony, Way of Tea, Chanoyu, Cha-No-Yu, Chado, Sado, Temae, Urasenke, Tea Ceremony'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/gansui-an'
+baseurl: '/'
 disqus: 'gansui-an'
 email: 'mpzrlogn'
 mailchimp-list: 'https://gmail.us19.list-manage.com/subscribe/post?u=9a24d35bae405fde3ea44379f&amp;id=0e5d7e628a'
