@@ -30,7 +30,7 @@ authors:
     soto:
       name:           Soto
       site:
-      avatar:         {{ site.baseurl }}/assets/images/avatar1.png
+      avatar:         /assets/images/avatar1.png
       bio:            "大家好呀！我是宗渡，就是含水庵的创作者。希望你们在这小站里玩得开心！我主要涉足陶艺、文学和茶道历史这几块，都是我觉得挺有意思的话题。如果你也对这些话题感兴趣，那真是太棒了！别客气，随时点进来逛逛，我们一起聊聊天、品品茶，总有些好玩的话题等着你！"
       # email:
       # twitter:
@@ -45,7 +45,7 @@ defaults:
     values:
       layout: post
       author: soto
-      avatar: {{ site.baseurl }}/assets/images/avatar1.png
+      avatar: /assets/images/avatar1.png
 
   # all pages
   - scope:
@@ -53,7 +53,7 @@ defaults:
     values:
       layout: page
       author: soto
-      avatar: {{ site.baseurl }}/assets/images/avatar1.png
+      avatar: /assets/images/avatar1.png
 
 # Syntax
 markdown: kramdown
