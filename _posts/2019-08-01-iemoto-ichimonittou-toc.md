@@ -44,7 +44,7 @@ tags: [ featured ]
 33.	[茶杓最初是由象牙制成的，为什么后来开始使用竹茶杓呢？]({{ site.baseurl }}/iemoto-ichimonittou-zogechashaku.html)
 34.	[请问一下，从《淡交》6月号开始连载的小习十六条的轴荘和轴荘付花月中关于帛纱和卷纸的不同使用方法。在花月中，“月”坐在床之间的正面，用右手取下挂物，换至左手，将帛纱折叠成八重，那么小习和花月在这之后是将帛纱放入怀中，还是放在右膝头呢？]({{ site.baseurl }}/iemoto-ichimonittou-jikukazari.html)
 35.	[使用电热式炉或风炉时，是否也需要装饰香合并在会记中记录呢？]({{ site.baseurl }}/iemoto-ichimonittou-kogokazari-electrical-heater.html)
-36.	茶箱の卯之花点前の茶会に招かれました。お道具の拝見はどのようにしたらよろしいでしょうか。お教え願います。
+36.	[被邀请参加茶箱卯之花点前的茶会。请告诉我，关于拜见茶道具，应该如何操作呢？]({{ site.baseurl }}/iemoto-ichimonittou-unohana-haiken.html)
 37.	茶席に入れてはいけない禁花があるとお聞きしましたが、どのような花を指すのでしょうか。
 38.	棚を用いて点前をした時、なぜ湯返しをするのでしょうか。
 39.	茶入の蓋に象牙を用いる意味、また蓋裏に金箔を貼る意味をお教え下さい。
