@@ -29,4 +29,4 @@ tags: []
 
 广泽手的原物现存于京都的北村美术馆。
 
-![濑户金华山窑中兴名物茶入铭广泽]({{ site.baseurl }}/hirosawa-chaire.jpg)
+![濑户金华山窑中兴名物茶入铭广泽]({{ site.baseurl }}/assets/images/hirosawa-chaire.jpg)
