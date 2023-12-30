@@ -47,10 +47,10 @@ tags: [ featured ]
 36.	[被邀请参加茶箱卯之花点前的茶会。请告诉我，关于拜见茶道具，应该如何操作呢？]({{ site.baseurl }}/iemoto-ichimonittou-unohana-haiken.html)
 37.	[听说在茶席上有一些不能使用的禁花，可以请问是指哪些花呢？]({{ site.baseurl }}/iemoto-ichimonittou-forbidden-flowers.html)
 38.	[使用棚进行点前时，为什么需要进行汤返呢？]({{ site.baseurl }}/iemoto-ichimonittou-yugaeshi.html)
-39.	茶入の蓋に象牙を用いる意味、また蓋裏に金箔を貼る意味をお教え下さい。
-40.	鉄風炉の場合、赤の前土器(かわらけ)を使うのはなぜですか。
-41.	薄茶の席で二種類の干菓子を出すのは何故ですか。お教え願います。
-42.	竹蓋置の炉、風炉の違いについてお教え願います。
+39.	[请您告诉我茶入的盖使用象牙的意义，以及在盖里贴金箔的含义。]({{ site.baseurl }}/iemoto-ichimonittou-chaire-no-futa-zoge.html)
+40.	[为什么在铁风炉的情况下会使用红色的前土器（かわらけ）呢？]({{ site.baseurl }}/iemoto-ichimonittou-tetsuburo-kawarake.html)
+41.	[请教，薄茶席上提供两种不同的干果子是为什么呢？]({{ site.baseurl }}/iemoto-ichimonittou-usucha-two-higashi.html)
+42.	[请教关于炉和风炉时竹盖置的差异。]({{ site.baseurl }}/iemoto-ichimonittou-futaoki-ro-furo.html)
 43.	濃茶では、なぜ飲み回しをするのでしょうか。
 44.	茶箱・月点前で、茶筅を立てる器具を「ウグイス」とお聞きしましたが、その名の由来をお教え下さい。
 45.	長板二つ置での点前では、竹の蓋置の方がよいといわれますが、何故ですか。
