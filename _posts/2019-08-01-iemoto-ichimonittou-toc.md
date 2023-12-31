@@ -51,7 +51,7 @@ tags: [ featured ]
 40.	[为什么在铁风炉的情况下会使用红色的前土器（かわらけ）呢？]({{ site.baseurl }}/iemoto-ichimonittou-tetsuburo-kawarake.html)
 41.	[请教，薄茶席上提供两种不同的干果子是为什么呢？]({{ site.baseurl }}/iemoto-ichimonittou-usucha-two-higashi.html)
 42.	[请教关于炉和风炉时竹盖置的差异。]({{ site.baseurl }}/iemoto-ichimonittou-futaoki-ro-furo.html)
-43.	濃茶では、なぜ飲み回しをするのでしょうか。
+43.	[在浓茶中，为什么要所有客人依次饮一碗茶（饮回）呢？]({{ site.baseurl }}/iemoto-ichimonittou-koicha-nomimawashi.html)
 44.	茶箱・月点前で、茶筅を立てる器具を「ウグイス」とお聞きしましたが、その名の由来をお教え下さい。
 45.	長板二つ置での点前では、竹の蓋置の方がよいといわれますが、何故ですか。
 46.	棚を使って茶事をする場合、最初から棚を置いてよろしいでしょうか。
