@@ -7,9 +7,7 @@ image: assets/images/shozumi-shomo.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
-第卌七问
+第卌七问 ([家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html))
 
 > 请教下初炭所望。风炉时，不移动下火，直接向客人提出所望请求；而炉时，为何在提出所望请求之前要移动下火、撒湿灰呢？
 
