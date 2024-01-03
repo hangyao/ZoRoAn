@@ -53,8 +53,8 @@ tags: [ featured ]
 42.	[请教关于炉和风炉时竹盖置的差异。]({{ site.baseurl }}/iemoto-ichimonittou-futaoki-ro-furo.html)
 43.	[在浓茶中，为什么要所有客人依次饮一碗茶（饮回）呢？]({{ site.baseurl }}/iemoto-ichimonittou-koicha-nomimawashi.html)
 44.	[在茶箱月点前时，关于放置茶筅的工具，我听说叫做“莺（ウグイス）”，请告诉我它的名字的由来。]({{ site.baseurl }}/iemoto-ichimonittou-chabako-tsukidate-uguisu.html)
-45.	長板二つ置での点前では、竹の蓋置の方がよいといわれますが、何故ですか。
-46.	棚を使って茶事をする場合、最初から棚を置いてよろしいでしょうか。
+45.	[在长板二置（長板二つ置）的点前中，据说使用竹盖置更好，为什么呢？]({{ site.baseurl }}/iemoto-ichimonittou-nagaitafutatsuoki-futaoki.html)
+46.	[如果要使用棚进行茶事，一开始就放置棚是否可以呢？]({{ site.baseurl }}/iemoto-ichimonittou-chaji-shoza-tana.html)
 47.	初炭所望についてお尋ねします。風炉では下火をいじらずに客に所望しますが、炉では下火を動かし湿し灰をまいてから所望するのは何故ですか。
 48.	居前に座り柄杓を取り「鏡柄杓」をしますが、その意味をお教え下さい。
 49.	御園棚で点前をする際、柄杓は、右か左かどちらの手で取るのでしょうか。
