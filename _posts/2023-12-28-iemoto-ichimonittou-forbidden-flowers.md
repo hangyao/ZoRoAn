@@ -7,9 +7,9 @@ image: assets/images/chabana-flowers.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第卅七问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 听说在茶席上有一些不能使用的禁花，可以请问是指哪些花呢？
 

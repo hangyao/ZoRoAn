@@ -7,9 +7,9 @@ image: assets/images/tenchaban.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第七问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 请告诉我在点茶盘上可以完成的点前范围
 

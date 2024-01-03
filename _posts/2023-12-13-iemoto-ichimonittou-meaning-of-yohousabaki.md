@@ -7,9 +7,9 @@ image: assets/images/fukusa-folding.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第一问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 请您解释一下帛纱的四方捌（よほうさばき）的含义
 

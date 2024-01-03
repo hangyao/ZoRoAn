@@ -7,9 +7,9 @@ image: assets/images/empty-rikyu-tea-room.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第二问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 请您教我内隅（うちずみ）和外隅（そとずみ）的使用区别
 

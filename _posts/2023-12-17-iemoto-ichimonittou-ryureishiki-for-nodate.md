@@ -7,9 +7,9 @@ image: assets/images/ryurei.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第廿四问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 在室内采用玄玄斋创案的立礼式，创造出野点的风情，举办茶会是否可行呢？
 

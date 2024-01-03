@@ -7,9 +7,9 @@ image: assets/images/kinindate-takatsuki.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第十三问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 在贵人点的情况下，如果要在高杯中盛放果子，亭主和半东中谁来端出呢？
 

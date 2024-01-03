@@ -7,9 +7,9 @@ image: assets/images/june-higashi.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第卌一问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 请教，薄茶席上提供两种不同的干果子是为什么呢？
 

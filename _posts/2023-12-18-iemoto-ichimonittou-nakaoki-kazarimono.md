@@ -7,9 +7,9 @@ image: assets/images/maxresdefault.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第廿五问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 在中置的情况下进行荘物，是否可以呢？
 

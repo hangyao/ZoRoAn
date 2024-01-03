@@ -7,9 +7,9 @@ image: assets/images/futaoki-tantansai-kao.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第卌二问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 请教关于炉和风炉时竹盖置的差异。
 

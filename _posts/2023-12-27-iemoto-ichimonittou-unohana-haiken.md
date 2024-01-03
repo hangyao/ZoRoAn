@@ -7,9 +7,9 @@ image: assets/images/unohana-chabako.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第卅六问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 被邀请参加茶箱卯之花点前的茶会。请告诉我，关于拜见茶道具，应该如何操作呢？
 

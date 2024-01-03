@@ -7,9 +7,9 @@ image: assets/images/nobunaga-and-chaire.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第卅九问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 请您告诉我茶入的盖使用象牙的意义，以及在盖里贴金箔的含义。
 

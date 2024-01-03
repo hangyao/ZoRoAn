@@ -7,9 +7,9 @@ image: assets/images/tea-master-hold-chashaku.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第卅三问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 茶杓最初是由象牙制成的，为什么后来开始使用竹茶杓呢？
 

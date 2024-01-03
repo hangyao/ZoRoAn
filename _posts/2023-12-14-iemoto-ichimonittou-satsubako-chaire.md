@@ -7,9 +7,9 @@ image: assets/images/satsubako-dogu.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第九问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 在茶通箱的点前中，最初将茶入背靠背地放在箱子中的意义是什么？
 

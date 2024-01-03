@@ -7,9 +7,9 @@ image: assets/images/girl-hold-temonku-chawan.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第廿三问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 如果在贵人清次花月的过程中，到最后贵人一次都没有抽到“月”，那么如何仕舞（结束）呢？
 

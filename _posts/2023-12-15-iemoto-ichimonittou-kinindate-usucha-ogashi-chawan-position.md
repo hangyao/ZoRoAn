@@ -7,9 +7,9 @@ image: assets/images/rikyu-daisu-temae.jpeg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第十六问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 请告诉我，在贵人点的薄茶中，半东给贵人的果子放在哪个位置呢？另外，请问贵人的茶碗要放在哪里呢？
 

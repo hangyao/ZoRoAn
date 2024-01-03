@@ -7,9 +7,9 @@ image: assets/images/rikyu-and-chacha-hatsu-go.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第十九问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 请您指点，受邀参加浓茶的茶席，但身体状况不佳时，作为客人应该怎么办呢？
 

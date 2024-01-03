@@ -7,9 +7,9 @@ image: assets/images/rikyu-daisu-temae.jpeg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第廿问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 在一会的茶事中，薄茶时我们在饮茶前先品尝果子，而在浓茶时，我们在怀石料理之后尝果子，经过中立的过程后再喝浓茶。为什么在浓茶的点前场面中没有果子呢？
 

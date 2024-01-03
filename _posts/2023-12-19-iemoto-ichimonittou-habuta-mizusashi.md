@@ -7,9 +7,9 @@ image: assets/images/habuta-mizusashi.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第廿八问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 用于叶盖点前的水指是否规定使用末广笼花入的受筒？此外，除了梶树叶之外，还可以使用哪些叶子？
 

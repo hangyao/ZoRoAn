@@ -7,9 +7,9 @@ image: assets/images/chabako-tsukidate.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第卌四问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 在茶箱月点前时，关于放置茶筅的工具，我听说叫做“莺（ウグイス）”，请告诉我它的名字的由来。
 

@@ -7,9 +7,9 @@ image: assets/images/habuta-araijakin.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第廿九问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 在叶盖点前或洗茶巾点前迎接客人时，有什么需要注意的地方吗？
 

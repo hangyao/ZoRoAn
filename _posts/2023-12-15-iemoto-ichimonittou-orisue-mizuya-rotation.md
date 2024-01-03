@@ -7,9 +7,9 @@ image: assets/images/orisue.png
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第十七问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 在确定花月的角色和座次时，会在水屋旋转折据，折据应该是顺时针旋转还是逆时针呢？另外，在这个过程中，扇子应该放在膝前还是膝旁呢？
 

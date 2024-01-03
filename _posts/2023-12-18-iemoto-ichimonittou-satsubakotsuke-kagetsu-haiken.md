@@ -7,9 +7,9 @@ image: assets/images/satsubako.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第廿六问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 我听说炉的茶通箱付花月送出拜见道具时，要使用”四つ出し“，请问是什么样的方式呢？另外，风炉的方式是否也相同呢？
 

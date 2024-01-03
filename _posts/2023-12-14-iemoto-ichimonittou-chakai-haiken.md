@@ -7,9 +7,9 @@ image: assets/images/c_200120_chaji_03.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第八问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 在大寄茶会等场合，如果一开始茶入和水指已经摆设好，应该从釜、茶入、还是水指开始拜见呢？
 

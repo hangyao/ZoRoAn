@@ -7,9 +7,9 @@ image: assets/images/furo-hakobi.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第卅问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 在使用切挂风炉时是否可以请求初炭所望？所望时，亭主会拿出炭斗放在定座上，此时亭主是坐在榻榻米的中央，还是坐在榻榻米靠近客人的右侧，然后再移向风炉正面呢？另外，虽然没有使用灰器，但帛纱是否还是要放在榻榻米的一角呢？
 

@@ -7,9 +7,9 @@ image: assets/images/niijima-yae-temae.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第四问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 摆设棚物上时，枣是用一手摆放的，盖置却必须在处理后再摆放，这是有什么原因呢？
 

@@ -7,9 +7,9 @@ image: assets/images/gyaku-laydown.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第卅二问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 请教品尝名水时的客人礼仪。
 

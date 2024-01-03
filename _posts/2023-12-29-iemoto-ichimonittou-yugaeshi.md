@@ -7,9 +7,9 @@ image: assets/images/imai-sokyu.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第卅八问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 使用棚进行点前时，为什么需要进行汤返呢？
 

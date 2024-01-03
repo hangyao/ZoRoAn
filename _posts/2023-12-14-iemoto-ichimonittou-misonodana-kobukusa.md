@@ -7,9 +7,9 @@ image: assets/images/misonodana-nodate.jpeg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第十二问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 在御园棚的情况下，点茶时，点前茶碗会放在古帛纱上吗？另外，在御园棚的点前中，拭过茶杓的帛纱会放在右侧吗？打开釜盖的帛纱会放在右侧还是左侧呢？
 

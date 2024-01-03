@@ -7,9 +7,9 @@ image: assets/images/rikyu-and-hideyoshi-in-tea-room.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第卅一问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 关于名水点我想询问。清洁完茶入和茶杓后，帛纱应该放在哪里？是否可以放在建水的后面呢？此外，回答名水来源时的位置，是面向点前正面（居前）还是面向客人的位置（客付）呢？
 

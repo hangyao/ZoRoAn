@@ -7,9 +7,9 @@ image: assets/images/haiken-tokonoma.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第三问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 在薄茶点前时，一开始会在茶道口进行问候（あいさつ），而在浓茶点前的过程中，主客会进行总礼（そうれい）。请您解释一下这个意义
 

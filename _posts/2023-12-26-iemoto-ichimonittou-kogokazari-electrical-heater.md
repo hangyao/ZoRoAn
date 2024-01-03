@@ -7,9 +7,9 @@ image: assets/images/tokonoma-hanaire-kogo.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第卅五问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 使用电热式炉或风炉时，是否也需要装饰香合并在会记中记录呢？
 

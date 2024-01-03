@@ -7,9 +7,9 @@ image: assets/images/washindana.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第十八问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 关于和亲棚的点前。大、中、小的棚放置的方式是否有规定？另外，点前是否应该参考御园棚、春秋棚的方式？
 

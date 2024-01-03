@@ -7,9 +7,9 @@ image: assets/images/gyaku-laydown.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第五问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 在贵人点拜见道具时，为什么在浓茶中要将茶杓放在仕覆上，而在薄茶中要将茶杓放在帛纱上呢？
 

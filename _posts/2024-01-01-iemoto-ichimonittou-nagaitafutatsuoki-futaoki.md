@@ -7,9 +7,9 @@ image: assets/images/nagaitafutatsuoki.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第卌五问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 在长板二置（長板二つ置）的点前中，据说使用竹盖置更好，为什么呢？
 

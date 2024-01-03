@@ -7,9 +7,9 @@ image: assets/images/learn-whisk-tea.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第廿二问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 请告诉我茶筅通的含义
 

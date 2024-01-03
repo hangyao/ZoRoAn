@@ -7,9 +7,9 @@ image: assets/images/daisu-hiroma-tenmoku.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第卌六问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 如果要使用棚进行茶事，一开始就放置棚是否可以呢？
 

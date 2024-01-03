@@ -7,9 +7,9 @@ image: assets/images/queen-bee-nodate-kasa.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第十四问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 用于茶席的大型伞通常只会在户外（如庭院或公园）使用吗？在室内使用是不被允许的吗？
 

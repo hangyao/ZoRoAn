@@ -7,9 +7,9 @@ image: assets/images/tomoehanda.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第十问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 在后炭所望时，为什么要在巴半田的灰上绘制一个巴呢？
 

@@ -7,9 +7,9 @@ image: assets/images/bushido-ro-daisu.jpg
 tags: []
 ---
 
-[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)
-
 第卅四问
+
+*[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
 > 请问一下，从《淡交》6月号开始连载的小习十六条的轴荘和轴荘付花月中关于帛纱和卷纸的不同使用方法。在花月中，“月”坐在床之间的正面，用右手取下挂物，换至左手，将帛纱折叠成八重，那么小习和花月在这之后是将帛纱放入怀中，还是放在右膝头呢？
 
