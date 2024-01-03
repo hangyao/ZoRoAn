@@ -88,6 +88,6 @@ Charles Eames 有一些身着和服或浴衣的照片，他曾说他对建筑的
 [noguchi-marriage]: {{ site.baseurl }}/assets/images/noguchi-marriage.jpg "婚姻。野口勇，1952年，镰仓，无釉唐津烧"
 [noguchi-and-yamaguchi]: {{ site.baseurl }}/assets/images/noguchi-and-yamaguchi-at-eames-house.jpg "野口勇与李香兰站在 Eames House 门口"
 
-[eames house]: https://www.eamesoffice.com/the-work/eames-house-case-study-house-8/
+[eames house]: https://www.eamesoffice.com/the-work/case-study-house-8/
 [LTR table]: https://www.eamesoffice.com/the-work/ltr-low-table-rod-base/
 [Akari light]: https://shop.noguchi.org/collections/akari-light-sculptures
