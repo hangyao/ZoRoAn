@@ -20,7 +20,7 @@ tags: [ featured ]
 9. [在茶通箱的点前中，最初将茶入背靠背地放在箱子中的意义是什么？]({{ site.baseurl }}/iemoto-ichimonittou-satsubako-chaire.html)
 10. [在后炭所望时，为什么要在巴半田的灰上绘制一个巴呢？]({{ site.baseurl }}/iemoto-ichimonittou-tomoehanda.html)
 11. [在初炭手前和後炭手前中使用了“手前”一词，这是否是为了与“点前”进行区分，因为它并不是点茶呢？]({{ site.baseurl }}/iemoto-ichimonittou-temae-no-kanji.html)
-12. [在御园棚的情况下，点茶时，点前茶碗会放在古帛纱上吗？另外，在御园棚的点前中，拭过茶杓的帛纱会放在右侧吗？打开釜盖的帛纱会放在右侧还是左侧呢？]({{ site.baseurl }}/iemoto-ichimonittou-misonodana-kobukusa.html)
+12. [在御园棚的情况下，是否将点前茶碗放置在古帛纱上呈上？另外，在御园棚的点前中，擦拭茶杓的帛纱放置在右边吗？开启釜盖的帛纱应放置在右边还是左边？]({{ site.baseurl }}/iemoto-ichimonittou-misonodana-kobukusa.html)
 13. [在贵人点的情况下，如果要在高杯中盛放果子，亭主和半东中谁来端出呢？]({{ site.baseurl }}/iemoto-ichimonittou-kinindate-ogashi.html)
 14. [用于茶席的大型伞通常只会在户外（如庭院或公园）使用吗？在室内使用是不被允许的吗？]({{ site.baseurl }}/iemoto-ichimonittou-kasa.html)
 15. [风炉初炭手前时，用灰匙在灰上切出月形的原因是什么？]({{ site.baseurl }}/iemoto-ichimonittou-furo-shozumi-tsukigata.html)
