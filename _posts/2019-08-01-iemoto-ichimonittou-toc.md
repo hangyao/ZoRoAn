@@ -57,7 +57,7 @@ tags: [ featured ]
 46.	[如果要使用棚进行茶事，一开始就放置棚是否可以呢？]({{ site.baseurl }}/iemoto-ichimonittou-chaji-shoza-tana.html)
 47.	[请教下初炭所望。风炉时，不移动下火，直接向客人提出所望请求；而炉时，为何在提出所望请求之前要移动下火、撒湿灰呢？]({{ site.baseurl }}/iemoto-ichimonittou-shozumishomo-furo-ro.html)
 48.	[请教向前方坐下拿起柄杓进行“镜柄杓”的含义。]({{ site.baseurl }}/iemoto-ichimonittou-kagamibishaku.html)
-49.	御園棚で点前をする際、柄杓は、右か左かどちらの手で取るのでしょうか。
+49.	[在进行御园棚点前时，应该用右手还是左手拿柄杓？]({{ site.baseurl }}/iemoto-ichimonittou-misonodana-hishaku-hand.html)
 50.	瓢(ふくべ)を炭斗として使用する時、新しいもの、古いものとの使い分けについてお教え下さい。
 51.	正月に結び柳をしますが、その由来と二重切花入の上の段には花を入れずに水のみを入れる理由をお教え下さい。
 52.	木地曲の建水の綴じ目の扱いについてお尋ね致します。居前に座り、建水から蓋置を定座に置き、柄杓を引いた後、綴じ目の向きを変えるのはなぜでしょうか。お教え下さい。
