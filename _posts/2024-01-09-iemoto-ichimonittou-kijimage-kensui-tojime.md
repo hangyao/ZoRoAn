@@ -3,7 +3,7 @@ layout: post
 title:  "木地曲建水的缀目"
 author: soto
 categories: [ 一问一答 ]
-image: assets/images/musubiyanagi.jpg
+image: assets/images/kijimage-kensui.jpg
 tags: []
 ---
 
