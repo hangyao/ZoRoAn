@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "茶事中的饮酒"
+title:  "茶杓荘的道具拜见"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/chashakukazari-haiken.jpg
