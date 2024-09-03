@@ -7,7 +7,7 @@ image: assets/images/chashakukazari-haiken.jpg
 tags: []
 ---
 
-第五十三问
+第五十四问
 
 *[家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc.html)*
 
