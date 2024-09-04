@@ -2,9 +2,9 @@
 layout: post
 title:  "薄茶点前的问候与浓茶点前的总礼"
 author: soto
-categories: [ 一问一答, 濃茶 ]
+categories: [ 一问一答 ]
 image: assets/images/haiken-tokonoma.jpg
-tags: []
+tags: [ 濃茶 ]
 ---
 
 第三问

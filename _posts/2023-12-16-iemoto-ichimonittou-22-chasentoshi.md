@@ -4,7 +4,7 @@ title:  "茶筅通的含义"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/learn-whisk-tea.jpg
-tags: []
+tags: [ 茶筅通 ]
 ---
 
 第廿二问

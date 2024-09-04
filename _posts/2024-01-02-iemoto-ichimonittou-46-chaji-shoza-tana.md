@@ -4,7 +4,7 @@ title:  "茶事初座可以放置棚吗？"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/daisu-hiroma-tenmoku.jpg
-tags: []
+tags: [ 茶事 ]
 ---
 
 第卌六问

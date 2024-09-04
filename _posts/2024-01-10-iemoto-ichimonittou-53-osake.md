@@ -4,7 +4,7 @@ title:  "茶事中的饮酒"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/osake.jpg
-tags: []
+tags: [ 茶事 ]
 ---
 
 第五十三问

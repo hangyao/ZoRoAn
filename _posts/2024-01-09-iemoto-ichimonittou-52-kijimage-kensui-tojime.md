@@ -4,7 +4,7 @@ title:  "木地曲建水的缀目"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/kijimage-kensui.jpg
-tags: []
+tags: [ 建水 ]
 ---
 
 第五十二问

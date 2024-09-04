@@ -4,7 +4,7 @@ title:  "贵人点薄茶果子和茶碗的位置"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/rikyu-daisu-temae.jpeg
-tags: []
+tags: [ 貴人点 ]
 ---
 
 第十六问

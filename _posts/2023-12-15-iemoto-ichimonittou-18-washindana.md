@@ -4,7 +4,7 @@ title:  "和亲棚的放置方式"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/washindana.jpg
-tags: []
+tags: [ 和親棚 ]
 ---
 
 第十八问

@@ -4,7 +4,7 @@ title:  "为什么长板二置（長板二つ置）要用竹盖置"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/nagaitafutatsuoki.jpg
-tags: []
+tags: [ 長板二つ置, 蓋置 ]
 ---
 
 第卌五问

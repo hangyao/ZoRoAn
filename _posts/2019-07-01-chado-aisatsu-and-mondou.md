@@ -2,7 +2,7 @@
 layout: post
 title:  "茶道会话"
 author: sochiku
-categories: [ 辞典, 点前 ]
+categories: [ 辞典 ]
 image: assets/images/bow-to-kama.jpg
 tags: []
 ---

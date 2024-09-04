@@ -4,7 +4,7 @@ title:  "茶席的禁花"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/chabana-flowers.jpg
-tags: []
+tags: [ 茶花 ]
 ---
 
 第卅七问

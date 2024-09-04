@@ -2,9 +2,9 @@
 layout: post
 title:  "盖置摆放在棚物上须换手的原因"
 author: soto
-categories: [ 一问一答, 蓋置 ]
+categories: [ 一问一答 ]
 image: assets/images/niijima-yae-temae.jpg
-tags: []
+tags: [ 蓋置 ]
 ---
 
 第四问

@@ -4,7 +4,7 @@ title:  "初炭所望风炉与炉的不同"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/shozumi-shomo.jpg
-tags: []
+tags: [ 炭所望 ]
 ---
 
 第卌七问

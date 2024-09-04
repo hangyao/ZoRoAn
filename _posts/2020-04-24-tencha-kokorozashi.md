@@ -2,9 +2,9 @@
 layout: post
 title:  "点茶心指"
 author: soshu
-categories: [ 茶书, 柳宗悦 ]
+categories: [ 茶书 ]
 image: assets/images/yanagi_soetsu.jpg
-tags: []
+tags: [ 柳宗悦 ]
 ---
 
 #### 点茶心指

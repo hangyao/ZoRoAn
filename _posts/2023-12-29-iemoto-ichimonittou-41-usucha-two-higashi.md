@@ -4,7 +4,7 @@ title:  "为何薄茶席提供两种干果子"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/june-higashi.jpg
-tags: []
+tags: [ 薄茶, 菓子 ]
 ---
 
 第卌一问

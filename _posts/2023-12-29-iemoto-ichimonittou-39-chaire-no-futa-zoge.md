@@ -4,7 +4,7 @@ title:  "茶入盖用象牙和贴金箔的意义"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/nobunaga-and-chaire.jpg
-tags: []
+tags: [ 茶入 ]
 ---
 
 第卅九问

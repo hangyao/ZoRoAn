@@ -2,9 +2,9 @@
 layout: post
 title:  "现代设计与茶会"
 author: soshu
-categories: [ 设计, 茶会, 历史 ]
+categories: [ 历史 ]
 image: assets/images/eames-chakai-01.jpg
-tags: [ sticky ]
+tags: [ sticky, 茶会 ]
 ---
 
 1951年7月24日，野口勇与李香兰（山口淑子）（1920-2014）在 Charles 和 Ray Eames 位于加州海滨的 [Case Study House #8][eames house] 主持了一场日本茶会。主客是查理·卓别林。其他的客人包括 Christian 和 Henrietta Lederbom，演员 Betty Harford，英国诗人 Iris Tree 和她儿子剧作家 Ivan Moffat， 以及演员 Ford Rainey。

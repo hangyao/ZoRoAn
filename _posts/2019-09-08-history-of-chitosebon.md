@@ -2,9 +2,9 @@
 layout: post
 title:  "千歳盆点前的历史"
 author: soshu
-categories: [ 点前, 千歳盆, 历史, 裏千家 ]
+categories: [ 历史 ]
 image: assets/images/chitosebon-temae.jpg
-tags: [ featured ]
+tags: [ featured, 千歳盆 ]
 ---
 
 千歳盆（ちとせぼん）是里千家14世淡々斋宗匠庆祝还历（花甲）时（1953年），千嘉代子夫人（清香院）的新考案。

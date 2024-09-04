@@ -4,7 +4,7 @@ title:  "叶盖点前的水指"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/habuta-mizusashi.jpg
-tags: []
+tags: [ 葉蓋 ]
 ---
 
 第廿八问

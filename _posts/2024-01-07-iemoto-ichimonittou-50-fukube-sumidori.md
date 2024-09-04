@@ -4,7 +4,7 @@ title:  "瓢炭斗的新旧"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/fukube-sumidori-robiraki.jpg
-tags: []
+tags: [ 炭斗, 炉開 ]
 ---
 
 第五十问

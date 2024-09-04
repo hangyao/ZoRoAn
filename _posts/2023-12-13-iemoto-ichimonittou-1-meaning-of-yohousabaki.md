@@ -2,9 +2,9 @@
 layout: post
 title:  "帛纱的四方捌的含义"
 author: soto
-categories: [ 一问一答, 帛紗 ]
+categories: [ 一问一答 ]
 image: assets/images/fukusa-folding.jpg
-tags: []
+tags: [ 帛紗 ]
 ---
 
 第一问

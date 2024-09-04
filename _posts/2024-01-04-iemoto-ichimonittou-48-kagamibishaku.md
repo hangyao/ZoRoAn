@@ -4,7 +4,7 @@ title:  "镜柄杓的含义"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/mirror-hishaku.jpg
-tags: []
+tags: [ 柄杓 ]
 ---
 
 第卌八问

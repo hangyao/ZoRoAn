@@ -4,7 +4,7 @@ title:  "续薄茶使用的场合"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/nobunaga-teishu.jpg
-tags: []
+tags: [ 続薄茶 ]
 ---
 
 第廿七问

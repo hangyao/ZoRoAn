@@ -2,9 +2,9 @@
 layout: post
 title:  "壶荘付花月折据的传递"
 author: soto
-categories: [ 一问一答, 壷荘付花月 ]
+categories: [ 一问一答 ]
 image: assets/images/tsubokazari-kagettsu.jpg
-tags: []
+tags: [ 壷荘付花月 ]
 ---
 
 第五十五问

@@ -4,7 +4,7 @@ title:  "名水点的客人作法"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/gyaku-laydown.jpg
-tags: []
+tags: [ 名水点 ]
 ---
 
 第卅二问

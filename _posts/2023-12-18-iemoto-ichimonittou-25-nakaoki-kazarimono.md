@@ -4,7 +4,7 @@ title:  "中置时不宜荘物点前"
 author: sochiku
 categories: [ 一问一答 ]
 image: assets/images/maxresdefault.jpg
-tags: []
+tags: [ 中置 ]
 ---
 
 第廿五问

@@ -4,7 +4,7 @@ title:  "立礼式不适合做野点茶会"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/ryurei.jpg
-tags: []
+tags: [ 立礼式 ]
 ---
 
 第廿四问

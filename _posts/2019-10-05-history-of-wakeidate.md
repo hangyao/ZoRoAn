@@ -2,9 +2,9 @@
 layout: post
 title:  "和敬点的历史"
 author: soshu
-categories: [ 点前, 和敬点, 历史, 裏千家, 茶箱 ]
+categories: [ 历史 ]
 image: assets/images/chabako-wakeidate.jpg
-tags: [ featured ]
+tags: [ featured, 和敬点前, 茶箱 ]
 ---
 
 和敬点（わけいだて）是十四代淡々斎考案的茶箱点前。与其他点前不同的地方在于，在点完茶给客人茶碗的时候，这两只茶碗不使用古帛纱，也没有基本的诸道具拜见。而且，在第一只碗或第二只碗时收到仕舞请求会有不同的手法上的变化。

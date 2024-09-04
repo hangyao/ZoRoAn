@@ -4,7 +4,7 @@ title:  "茶席的伞可用在室内"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/queen-bee-nodate-kasa.jpg
-tags: [野点]
+tags: [ 野点 ]
 ---
 
 第十四问

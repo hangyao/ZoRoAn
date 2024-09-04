@@ -2,9 +2,9 @@
 layout: post
 title:  "织部日（織部の日）"
 author: soshu
-categories: [ 織部, 历史 ]
+categories: [ 历史 ]
 image: assets/images/hyouge-mono-oribe.jpg
-tags: [featured]
+tags: [featured, 古田織部]
 ---
 
 庆长4年（1599年）2月28日，古田織部在京都伏见召开茶会，邀请了毛利輝元、小早川秀包，和博多的豪商神屋宗湛。当时的茶会记记录在《宗湛日記》中：

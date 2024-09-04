@@ -4,7 +4,7 @@ title:  "为何浓茶点前时不提供果子"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/rikyu-daisu-temae.jpeg
-tags: []
+tags: [ 濃茶 ]
 ---
 
 第廿问

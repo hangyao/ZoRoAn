@@ -4,7 +4,7 @@ title:  "小间茶席不宜中置点前"
 author: sochiku
 categories: [ 一问一答 ]
 image: assets/images/ukiyoe-shinsui-ito-chanoyu.jpg
-tags: []
+tags: [ 中置 ]
 ---
 
 [家元一问一答]({{ site.baseurl }}/iemoto-ichimonittou-toc)

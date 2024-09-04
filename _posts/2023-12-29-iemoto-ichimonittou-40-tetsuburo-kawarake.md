@@ -4,7 +4,7 @@ title:  "铁风炉使用红色前土器的原因"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/tetsuburo.jpg
-tags: []
+tags: [ 風炉 ]
 ---
 
 第卌问

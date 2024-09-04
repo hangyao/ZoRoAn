@@ -4,7 +4,7 @@ title:  "象牙茶杓变为竹茶杓的原因"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/tea-master-hold-chashaku.jpg
-tags: []
+tags: [ 茶杓 ]
 ---
 
 第卅三问

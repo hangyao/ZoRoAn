@@ -4,7 +4,7 @@ title:  "使用电热式炉或风炉时装饰香合吗"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/tokonoma-hanaire-kogo.jpg
-tags: []
+tags: [ 香合 ]
 ---
 
 第卅五问

@@ -4,7 +4,7 @@ title:  "切挂风炉时如何初炭所望"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/furo-hakobi.jpg
-tags: []
+tags: [ 風炉, 炭所望 ]
 ---
 
 第卅问

@@ -2,9 +2,9 @@
 layout: post
 title:  "贵人点茶杓放在仕覆或帛纱上"
 author: soto
-categories: [ 一问一答, 貴人点 ]
+categories: [ 一问一答 ]
 image: assets/images/gyaku-laydown.jpg
-tags: []
+tags: [ 貴人点 ]
 ---
 
 第五问

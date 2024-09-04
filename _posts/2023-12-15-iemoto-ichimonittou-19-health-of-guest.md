@@ -4,7 +4,7 @@ title:  "身体不佳时如何参加浓茶席"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/rikyu-and-chacha-hatsu-go.jpg
-tags: []
+tags: [ 濃茶 ]
 ---
 
 第十九问

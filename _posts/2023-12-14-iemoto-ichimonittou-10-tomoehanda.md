@@ -4,7 +4,7 @@ title:  "后炭所望巴半田的灰"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/tomoehanda.jpg
-tags: [炭所望]
+tags: [ 炭所望 ]
 ---
 
 第十问

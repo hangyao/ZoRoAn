@@ -2,9 +2,9 @@
 layout: post
 title:  "风炉初炭手前的月形灰"
 author: sochiku
-categories: [ 一问一答, 炭手前, 風炉 ]
+categories: [ 一问一答 ]
 image: assets/images/furosumi-tsukigata.jpg
-tags: []
+tags: [ 炭手前, 風炉 ]
 ---
 
 第十五问

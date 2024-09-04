@@ -2,9 +2,9 @@
 layout: post
 title:  "稽古の席掟"
 author: soto
-categories: [ 茶书, 历史, 裏千家 ]
+categories: [ 茶书 ]
 image: assets/images/ukiyoe-toshikata-mizuno-mizuya.jpg
-tags: []
+tags: [ 玄々斎 ]
 ---
 
 稽古の席掟  

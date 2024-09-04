@@ -4,7 +4,7 @@ title:  "炉和风炉时竹盖置的差异"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/futaoki-tantansai-kao.jpg
-tags: []
+tags: [ 蓋置 ]
 ---
 
 第卌二问

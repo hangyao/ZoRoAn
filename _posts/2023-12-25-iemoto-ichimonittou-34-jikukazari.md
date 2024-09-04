@@ -4,7 +4,7 @@ title:  "小习的轴荘和轴荘付花月中的不同"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/bushido-ro-daisu.jpg
-tags: []
+tags: [ 轴荘, 轴荘付花月 ]
 ---
 
 第卅四问

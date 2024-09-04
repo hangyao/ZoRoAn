@@ -4,7 +4,7 @@ title:  "正月结柳的由来"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/musubiyanagi.jpg
-tags: []
+tags: [ 茶花, 花入 ]
 ---
 
 第五十一问

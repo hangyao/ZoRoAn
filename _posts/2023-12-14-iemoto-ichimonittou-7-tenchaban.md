@@ -4,7 +4,7 @@ title:  "点茶盘的点前范围"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/tenchaban.jpg
-tags: [点茶盤]
+tags: [ 点茶盤 ]
 ---
 
 第七问

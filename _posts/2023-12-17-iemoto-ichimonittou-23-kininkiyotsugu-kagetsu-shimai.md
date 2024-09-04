@@ -4,7 +4,7 @@ title:  "贵人清次花月贵人没有抽到“月”如何仕舞"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/girl-hold-temonku-chawan.jpg
-tags: []
+tags: [ 貴人清次花月 ]
 ---
 
 第廿三问

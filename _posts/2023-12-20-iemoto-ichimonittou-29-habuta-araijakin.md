@@ -4,7 +4,7 @@ title:  "叶盖点前或洗茶巾点前的要点"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/habuta-araijakin.jpg
-tags: []
+tags: [ 葉蓋, 洗茶巾 ]
 ---
 
 第廿九问

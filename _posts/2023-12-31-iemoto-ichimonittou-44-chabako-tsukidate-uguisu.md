@@ -4,7 +4,7 @@ title:  "茶箱月点前中“莺（ウグイス）”的由来"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/chabako-tsukidate.jpg
-tags: []
+tags: [ 茶箱, 月点前 ]
 ---
 
 第卌四问

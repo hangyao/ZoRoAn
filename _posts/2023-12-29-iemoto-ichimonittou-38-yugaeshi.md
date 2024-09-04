@@ -4,7 +4,7 @@ title:  "汤返的原因"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/imai-sokyu.jpg
-tags: []
+tags: [ 棚 ]
 ---
 
 第卅八问

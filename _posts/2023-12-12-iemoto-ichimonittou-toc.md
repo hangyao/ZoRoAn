@@ -2,9 +2,9 @@
 layout: post
 title:  "家元一问一答 目录"
 author: soto
-categories: [ 点前, 裏千家, 一问一答 ]
+categories: [ 一问一答 ]
 image: assets/images/learn-koi-cha.jpg
-tags: [ featured ]
+tags: [ featured, 裏千家 ]
 ---
 
 家元一问一答是里千家今日庵网站上的一个栏目。一共一百个问题，回答了里千家茶道点前中一些常见的问题。陆续翻译中…………

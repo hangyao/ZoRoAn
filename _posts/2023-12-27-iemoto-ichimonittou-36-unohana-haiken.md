@@ -4,7 +4,7 @@ title:  "茶箱卯之花道具拜见的方法"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/unohana-chabako.jpg
-tags: []
+tags: [ 茶箱, 卯の花点前 ]
 ---
 
 第卅六问
