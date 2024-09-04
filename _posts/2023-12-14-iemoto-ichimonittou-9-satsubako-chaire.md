@@ -4,7 +4,7 @@ title:  "茶通箱中茶入背靠背的原因"
 author: sochiku
 categories: [ 一问一答 ]
 image: assets/images/satsubako-dogu.jpg
-tags: []
+tags: [茶通箱]
 ---
 
 第九问

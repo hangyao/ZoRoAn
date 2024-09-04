@@ -4,7 +4,7 @@ title:  "茶会的拜见顺序"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/c_200120_chaji_03.jpg
-tags: []
+tags: [大寄茶会]
 ---
 
 第八问

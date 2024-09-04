@@ -2,7 +2,7 @@
 layout: post
 title:  "内隅和外隅的使用区别"
 author: soto
-categories: [ 一问一答 ]
+categories: [ 一问一答, 炉 ]
 image: assets/images/empty-rikyu-tea-room.jpg
 tags: []
 ---

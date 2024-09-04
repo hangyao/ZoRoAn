@@ -4,7 +4,7 @@ title:  "手前与点前的区别"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/seiji-tenmoku-chawan-and-karamono-dai.jpg
-tags: []
+tags: [炭手前]
 ---
 
 第十一问

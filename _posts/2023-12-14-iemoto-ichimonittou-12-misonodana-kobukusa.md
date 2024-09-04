@@ -4,7 +4,7 @@ title:  "御园棚古帛纱的使用"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/misonodana-nodate.jpeg
-tags: []
+tags: [御園棚]
 ---
 
 第十二问

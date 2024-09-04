@@ -4,7 +4,7 @@ title:  "贵人点中谁端出果子"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/kinindate-takatsuki.jpg
-tags: []
+tags: [貴人点]
 ---
 
 第十三问
