@@ -66,7 +66,7 @@ tags: [ featured, 裏千家 ]
 55.	[在壶荘付花月中，如果四客抽中了“月”，那么折据是否应该绕过负责系壶纽的四客，先传给假座，再从假座传给三客？请指教。]({{ site.baseurl }}/iemoto-ichimonittou-55-tsubokazari-kagettsu.html)
 56.	[在台子、长板总荘中，进行薄茶和浓茶的点前时，要从杓立中拔出火箸，但这既不是炭手前，且不使用火箸，为什么还要拔出呢？]({{ site.baseurl }}/iemoto-ichimonittou-56-soukazari-hibashi.html)
 57.	[为什么家元的正月茶会被称为“初釜式”呢？]({{ site.baseurl }}/iemoto-ichimonittou-57-hatsugamashiki.html)
-58.	懐石道具、縁高に露(つゆ)を打つのは、炉・風炉の季節とも同じでございますか。
+58.	[怀石道具、缘高上洒水（打露）在炉和风炉的季节是否相同呢？]({{ site.baseurl }}/iemoto-ichimonittou-58-kaisekidogu-fuchidaka-tsuyu.html)
 59.	二月に大炉を開くとお聞きしましたが、大炉とはどのようなものでしょうか。お尋ねいたします。
 60.	大炉の炭手前についてお尋ねいたします。初炭手前では炭斗に炭を組み用いますが、後炭手前では炭斗を使用しないとお聞きしました。後炭手前ではどのように炭を組むのでしょうか。
 61.	陶器の灰匙を大炉以外で用いることができますか。
