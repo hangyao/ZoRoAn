@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "大炉是什么"
+title:  "大炉的后炭手前"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/dairo-sumidemae.jpg

@@ -69,7 +69,7 @@ tags: [ featured, 裏千家 ]
 58.	[怀石道具、缘高上洒水（打露）在炉和风炉的季节是否相同呢？]({{ site.baseurl }}/iemoto-ichimonittou-58-kaisekidogu-fuchidaka-tsuyu.html)
 59.	[听说二月份会开设大炉，请问大炉是什么样的呢？特此请教。]({{ site.baseurl }}/iemoto-ichimonittou-59-dairo.html)
 60.	[关于大炉的后炭手前有个问题。在初炭手前使用炭斗来组炭，但听说后炭手前不使用炭斗。请问在后炭手前是如何组炭的呢？]({{ site.baseurl }}/iemoto-ichimonittou-60-dairo-sumidemae.html)
-61.	陶器の灰匙を大炉以外で用いることができますか。
+61.	[可以在大炉以外使用陶器的灰匙吗？]({{ site.baseurl }}/iemoto-ichimonittou-61-dairo-haisaji.html)
 62.	大炉の雪輪瓦の両面には、釉の掛かっている面と素焼の部分のある面がありますが、扱いに約束はありますか。お教え願います。
 63.	大炉は逆勝手で点前をしますが、初炭の炭斗の炭も逆に組むのでしょうか。
 64.	濃茶貴人点では、菓子器は縁高を用いるのでしょうか。それとも高坏(たかつき)でしょうか。お教え願います。
