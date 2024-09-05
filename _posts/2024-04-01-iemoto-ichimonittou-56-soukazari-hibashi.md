@@ -4,7 +4,7 @@ title:  "为何总荘点前时要拔出火箸"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/daisu-soukazari.jpg
-tags: [ 壷荘付花月 ]
+tags: [ 火箸 ]
 ---
 
 第五十六问
