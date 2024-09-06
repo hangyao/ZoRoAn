@@ -76,3 +76,4 @@ exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffe
 
 # "No GitHub API authentication" error
 github: [metadata]
+repository: hangyao/gansui-an
