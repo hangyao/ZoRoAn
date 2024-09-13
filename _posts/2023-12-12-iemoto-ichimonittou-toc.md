@@ -72,8 +72,8 @@ tags: [ featured, 裏千家 ]
 61.	[可以在大炉以外使用陶器的灰匙吗？]({{ site.baseurl }}/iemoto-ichimonittou-61-dairo-haisaji.html)
 62.	[大炉的雪轮瓦两面中，有施釉的一面和带有素烧部分的一面，请问在使用时有相关的规定吗？请教一下。]({{ site.baseurl }}/iemoto-ichimonittou-62-dairo-yukiwagawara.html)
 63.	[大炉的点前是以逆胜手进行的，那么初炭的炭斗里的炭也需要逆向组合吗？]({{ site.baseurl }}/iemoto-ichimonittou-63-dairo-shozumi.html)
-64.	濃茶貴人点では、菓子器は縁高を用いるのでしょうか。それとも高坏(たかつき)でしょうか。お教え願います。
-65.	釣釜の点前で棚を用い、五徳の蓋置を使う時の扱いをお教えください。
+64.	[在浓茶贵人点时，果子器应使用缘高吗？还是使用高杯呢？请赐教。]({{ site.baseurl }}/iemoto-ichimonittou-64-kinindate-koicha-takatsuki.html)
+65.	[在使用棚的钓釜点前中，用五德作为盖置时，该如何操作？请赐教。]({{ site.baseurl }}/iemoto-ichimonittou-65-gotoku-futaoki.html)
 66.	貴人清次濃茶付花月についてお尋ねいたします。貴人が次茶碗の濃茶を点て、次客の一啜で服加減をきき、釜に水一杓をさして自席に戻り、次茶碗の濃茶を詰がのみきると貴人から茶碗の拝見を請われます。その時の茶碗と札の位置をお教えください。
 67.	釜に花押や文字が鋳込まれている時、釜の正面はどのように決めたら宜しいでしょうか。
 68.	席中での禁句や話してはいけない内容等がありましたらお教えください。
