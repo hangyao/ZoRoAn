@@ -4,7 +4,7 @@ title:  "贵人清次浓茶付花月中茶碗和札的位置"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/c_200120_chaji_04.jpg
-tags: [ 貴人清次濃茶付花月 ]
+tags: [ 七事式 ]
 ---
 
 第六十六问

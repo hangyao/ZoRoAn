@@ -75,7 +75,7 @@ tags: [ featured, 裏千家 ]
 64.	[在浓茶贵人点时，果子器应使用缘高吗？还是使用高杯呢？请赐教。]({{ site.baseurl }}/iemoto-ichimonittou-64-kinindate-koicha-takatsuki.html)
 65.	[在使用棚的钓釜点前中，用五德作为盖置时，该如何操作？请赐教。]({{ site.baseurl }}/iemoto-ichimonittou-65-gotoku-futaoki.html)
 66.	[关于贵人清次浓茶付花月，有个问题请教。贵人用次茶碗点浓茶，次客吸一口后问茶如何。然后贵人向釜中加一杓水后回到自己的座位。当末客（詰）喝完次茶碗的浓茶后，贵人会请求拜见茶碗。请问此时茶碗和札的位置应该如何摆放？]({{ site.baseurl }}/iemoto-ichimonittou-66-kininkiyotsugi-koichatsuki-kagetsu.html)
-67.	釜に花押や文字が鋳込まれている時、釜の正面はどのように決めたら宜しいでしょうか。
+67.	[当釜上铸有花押或文字时，如何确定釜的正面？]({{ site.baseurl }}/iemoto-ichimonittou-67-kama-no-shomen.html)
 68.	席中での禁句や話してはいけない内容等がありましたらお教えください。
 69.	四月は透木釜を懸けて、いよいよ五月初風炉の季節を迎えますとお聞きしますが、透木釜は時代としては何時頃から茶席で懸けられるようになったのでしょうか。お教え願います。
 70.	透木後炭手前についてお伺いいたします。透木を炉壇に戻すのは、水次で釜に水を足し、濡れ釜にした後でしょうか、その前でしょうか。

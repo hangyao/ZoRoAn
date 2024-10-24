@@ -4,7 +4,7 @@ title:  "花月水屋旋转折据的方向"
 author: soto
 categories: [ 一问一答 ]
 image: assets/images/orisue.png
-tags: [ 花月 ]
+tags: [ 七事式 ]
 ---
 
 第十七问
